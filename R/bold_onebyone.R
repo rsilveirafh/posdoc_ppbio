@@ -2,7 +2,6 @@ bold_onebyone <- function(data, speciesvar) {
 
 	# loading required packages
 	require(bold)
-	require(crayon)
 	require(dplyr)
 
 	# creating temporary null data.frame
@@ -20,7 +19,7 @@ bold_onebyone <- function(data, speciesvar) {
 		# declaring the species variable
 		sp <- as.character(data[i, speciesvar])
 
-		cat("\nSpecies", red$bold(sp), ", number", red(i), ".")
+		cat("\nSpecies", sp, ", number", i)
 
 		# tryCatch the results
 		attempt <- tryCatch({
@@ -29,7 +28,7 @@ bold_onebyone <- function(data, speciesvar) {
 		error = function(e) {}
 		)
 
-		# if it's null, try next species
+		# if null, try next species
 		if (is.null(attempt)) {
 			next
 		}

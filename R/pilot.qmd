@@ -4,6 +4,8 @@ author: "Ricardo Rodrigues da Silveira Filho"
 date: "Aug 2022"
 format: html
 editor: source
+editor_options: 
+  chunk_output_type: console
 ---
 
 ---
@@ -25,11 +27,13 @@ Sys.setlocale(category = "LC_ALL", locale = "pt_BR.UTF-8")
 - Loading *magrittr*, *panppbio* and *tidyverse* packages
 
 
-```{r, eval=FALSE}
+```{r}
+#| eval: false
 source("R/speciesList.R")
 ```
 
 ```{r}
+#| eval: false
 library(magrittr)
 # library(panppbio)
 library(tidyverse)
@@ -42,6 +46,7 @@ library(tidyverse)
 - Amphibia - 1188 species (+ 12 old names)
 
 ```{r}
+#| eval: false
 
 # Dataframe with brazilian amphibian species
 amp_splist <- readr::read_csv(here::here("data/processed/amp_splist.csv"),
@@ -71,7 +76,8 @@ amp_splist %>%
 
 #### 2.1) Searching using class and country
 
-```{r, eval=FALSE}
+```{r}
+#| eval: false
 
 # Searching on BOLD Systems
 search_amp_br <- bold::bold_specimens(taxon = "Amphibia",
@@ -84,6 +90,7 @@ readr::write_csv(search_amp_br, here::here("data/processed/search_amp_br.csv"))
 
 
 ```{r}
+#| eval: false
 
 # Reading data above
 search_amp_br <- readr::read_csv(here::here("data/processed/search_amp_br.csv"),
@@ -106,6 +113,7 @@ search_amp_br %>%
 
 
 ```{r}
+#| eval: false
 
 # Searching on BOLD Systems using the whole species name
 
@@ -123,7 +131,7 @@ search_amp_spp <- bold_onebyone(data = amp_splist,
 #### 2.3) Names correction and updates
 
 ```{r}
-
+#| eval: false
 
 
 ```

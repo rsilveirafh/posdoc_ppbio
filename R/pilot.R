@@ -7,7 +7,7 @@
 
 # 0) Setup ----------------------------------------------------------------
 
-# source("R/speciesList.R") # dealinsg with species lists
+# source("R/speciesList.R") # dealing with species lists
 Sys.setlocale(category = "LC_ALL", locale = "pt_BR.UTF-8") # language system
 
 
@@ -24,27 +24,19 @@ library(bold)
 
 ## 2.1) BOLD using only Class and Country ---------------------------------
 
-# search_AmpBr <- bold::bold_specimens(taxon = "Amphibia",
-# 									 geo = "Brazil")
+# search_amp_br <- bold::bold_specimens(taxon = "Amphibia",
+#                                       geo = "Brazil")
 
-# readr::write_csv(search_AmpBr, "data/processed/search_AmpBr.csv")
+# readr::write_csv(search_amp_br, "data/processed/search_amp_br.csv")
 
 # 3808 observations
 
 
 ## 2.2) BOLD by species ---------------------------------------------------
 
-# The right name should be
+source("R/bold_onebyone.R")
 
-res <- bold::bold_specimens(taxon = a)
-
-
-
-purrr::map(.x = "Rhinella jimi", ~{bold::bold_specimens(taxon = .x)})
-
-
-a <- c("Scinax x-signatus", "Rhinella jimi", "Rhinella granulosa", "Rhinella marina")
-
+search_amp_spp <- bold_onebyone(amp_splist, speciesvar = "species")
 
 
 
