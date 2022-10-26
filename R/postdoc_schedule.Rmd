@@ -1,0 +1,77 @@
+---
+title: "Post doc schedule"
+author: "Ricardo Rodrigues da Silveira Filho"
+date: "`r Sys.Date()`"
+output:
+  prettydoc::html_pretty:
+    theme: leonids
+    highlight: github
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+---
+
+#### E-mail: ricardodasilveira@gmail.com
+
+---
+
+## 1) Post-doc time schedule
+
+### Main project
+
+1. Routine Revision
+	+ Gather species lists of biological groups
+		- Amphibia (Adrian) + first group as pilot
+		- Birds (Henrique)
+		- Crocs (?)
+		- Fishes (?)
+		- Lizards (Guarino)
+		- Mammals (Hernani)
+		- Snakes (Thaís)
+		- Turtles (?)
+	+ Naming correction and updates
+	+ BOLD Systems
+		- Open API
+		- Q1. Are there differences in results in BOLD Systems between searches using "group + country" or "species"?
+		- Q2. What are the main used genes?
+		- Q3. What is the percentage of species that have been sequenced and are in BOLD Systems?
+    + GBIF trait and spatial information
+		- Open API
+		- Q4. Are there enough information about species (IUCN and GBIF)?
+		- Q5. Are there good gene information based on biomes?
+		- Q6. Are there good gene information based on altitude?
+	+ IUCN status, spatial and trait information
+		- Token requested, waiting for response
+	+ NCBI
+		- Is it worth it?
+	+ Money investiment
+		- Q7. Which biological groups had investiments to barcoding? (mammals 2015)
+		- Q8. Which biomes had investiments to barcoding?
+	+ Gathering the whole database to cloud (SQL?, PostgreSQL?)
+1. Project creation
+1. Git hub publication
+1. Function -> taxonomy (taxize)
+1. Function -> bold (bold)
+1. Function -> iucn (riucn)
+1. Function -> gbif (rgbif)
+1. Function -> ncbi (rentrez)
+1. Function -> comparisons
+1. Function -> graphics
+1. Function -> maps
+1. Deploy
+
+### Scientific divulgation
+
+01. Shiny objective?
+02. Starting shiny development
+03. Interface
+04. Function -> download of data
+05. Function -> graphics
+06. Deploy
+
+
+
+
