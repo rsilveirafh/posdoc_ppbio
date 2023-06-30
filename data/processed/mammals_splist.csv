@@ -1,0 +1,776 @@
+species_id,species,order,family,subfamily,genus,epithet,author,common_name_br,category_iucn,endemic_br
+mam_1,Caluromys lanatus,Didelphimorphia,Didelphidae,Caluromyinae,Caluromys,lanatus,"(Olfers, 1818)","cuíca-lanosa, cuíca, gambazinho",NA,NA
+mam_2,Caluromys philander,Didelphimorphia,Didelphidae,Caluromyinae,Caluromys,philander,"(Linnaeus, 1758)","cuíca, cuíca-lanosa, mucura-chichica, mucura-xixica",NA,NA
+mam_3,Caluromysiops irrupta,Didelphimorphia,Didelphidae,Caluromyinae,Caluromysiops,irrupta,"Sanborn, 1951","cuíca-de-colete, cuíca",NA,NA
+mam_4,Chironectes minimus,Didelphimorphia,Didelphidae,Didelphinae,Chironectes,minimus,"(Zimmermann, 1780)","cuíca-d’água, gambá d’água,  mucura d’água, chichica d’água",NA,NA
+mam_5,Didelphis albiventris,Didelphimorphia,Didelphidae,Didelphinae,Didelphis,albiventris,"Lund, 1840","gambá-de-orelha-branca, gambá, raposa, saruê, seriguê, micurê",NA,NA
+mam_6,Didelphis aurita,Didelphimorphia,Didelphidae,Didelphinae,Didelphis,aurita,"(Wied-Neuwied, 1826)","gambá-de-orelha-preta, gambá, raposa, saruê, seriguê",NA,NA
+mam_7,Didelphis imperfecta,Didelphimorphia,Didelphidae,Didelphinae,Didelphis,imperfecta,"Mondolfi & Pérez-Hernández, 1984","gambá, saruê, mucura",NA,NA
+mam_8,Didelphis marsupialis,Didelphimorphia,Didelphidae,Didelphinae,Didelphis,marsupialis,"Linnaeus, 1758","gambá-de-orelha-preta, saruê, mucura",NA,NA
+mam_9,Lutreolina crassicaudata,Didelphimorphia,Didelphidae,Didelphinae,Lutreolina,crassicaudata,"(Desmarest, 1804)","cuíca-marrom, cuíca-de-cauda-grossa, cuíca-d'água-pequena, cuíca",NA,NA
+mam_10,Philander andersoni,Didelphimorphia,Didelphidae,Didelphinae,Philander,andersoni,"(Osgood, 1913)",cuíca-de-quatro-olhos,NA,NA
+mam_11,Philander canus,Didelphimorphia,Didelphidae,Didelphinae,Philander,canus,"(Osgood, 1913)",cuíca-de-quatro-olhos,NA,NA
+mam_12,Philander quica,Didelphimorphia,Didelphidae,Didelphinae,Philander,quica,"(Temminck, 1824)","cuíca-de-quatro-olhos, gambá-cinza-de-quatro-olhos, cuíca-verdadeira",NA,NA
+mam_13,Philander mcilhennyi,Didelphimorphia,Didelphidae,Didelphinae,Philander,mcilhennyi,"Gardner & Patton, 1972",cuíca-de-quatro-olhos,NA,NA
+mam_14,Philander opossum,Didelphimorphia,Didelphidae,Didelphinae,Philander,opossum,"(Linnaeus, 1758)",cuíca-de-quatro-olhos,NA,NA
+mam_15,Philander pebas,Didelphimorphia,Didelphidae,Didelphinae,Philander,pebas,"Voss, Díaz-Nieto & Jansa, 2018",cuíca-de-quatro-olhos,NA,NA
+mam_16,Marmosa macrotarsus,Didelphimorphia,Didelphidae,Didelphinae,Marmosa,macrotarsus,"(Wagner, 1842)",cuíca,NA,NA
+mam_17,Marmosa murina,Didelphimorphia,Didelphidae,Didelphinae,Marmosa,murina,"(Linnaeus, 1758)","cuíca, marmosa",NA,NA
+mam_18,Marmosa waterhousei,Didelphimorphia,Didelphidae,Didelphinae,Marmosa,waterhousei,"(Tomes, 1860)",cuíca,NA,NA
+mam_19,Marmosa constantiae,Didelphimorphia,Didelphidae,Didelphinae,Marmosa,constantiae,"(Thomas, 1904)",cuíca,NA,NA
+mam_20,Marmosa demerarae,Didelphimorphia,Didelphidae,Didelphinae,Marmosa,demerarae,"(Thomas, 1905)",cuíca,NA,NA
+mam_21,Marmosa paraguayana,Didelphimorphia,Didelphidae,Didelphinae,Marmosa,paraguayana,"(Tate, 1931)","cuíca, guaiquica-cinza",NA,NA
+mam_22,Marmosa phaea,Didelphimorphia,Didelphidae,Didelphinae,Marmosa,phaea,"Thomas, 1899",cuíca,NA,NA
+mam_23,Marmosa rapposa,Didelphimorphia,Didelphidae,Didelphinae,Marmosa,rapposa,"Thomas, 1899",cuíca,NA,NA
+mam_24,Marmosa rutteri,Didelphimorphia,Didelphidae,Didelphinae,Marmosa,rutteri,"Thomas, 1924",cuíca,NA,NA
+mam_25,Marmosa lepida,Didelphimorphia,Didelphidae,Didelphinae,Marmosa,lepida,"(Thomas, 1888)","cuíca, marmosa",NA,NA
+mam_26,Monodelphis americana,Didelphimorphia,Didelphidae,Didelphinae,Monodelphis,americana,"(Müller, 1776)","catita-de-listras, catita, cuíca-de três-listras",NA,NA
+mam_27,Monodelphis iheringi,Didelphimorphia,Didelphidae,Didelphinae,Monodelphis,iheringi,"(Thomas, 1888)","catita, catita-de-listras, guaiquica-listrada",NA,NA
+mam_28,Monodelphis scalops,Didelphimorphia,Didelphidae,Didelphinae,Monodelphis,scalops,"(Thomas, 1888)","catita-de-listras, catita",NA,NA
+mam_29,Monodelphis kunsi,Didelphimorphia,Didelphidae,Didelphinae,Monodelphis,kunsi,"Pine, 1975",catita,NA,NA
+mam_30,Monodelphis pinocchio,Didelphimorphia,Didelphidae,Didelphinae,Monodelphis,pinocchio,"S. Pavan, 2015","catita, catita-de-cauda-curta",NA,NA
+mam_31,Monodelphis ronaldi,Didelphimorphia,Didelphidae,Didelphinae,Monodelphis,ronaldi,"Solari, 2004",catita,NA,NA
+mam_32,Monodelphis saci,Didelphimorphia,Didelphidae,Didelphinae,Monodelphis,saci,"S. Pavan, Mendes-Oliveira & Voss, 2017",catita,NA,NA
+mam_33,Monodelphis arlindoi,Didelphimorphia,Didelphidae,Didelphinae,Monodelphis,arlindoi,"S. Pavan, Rossi & Schneider, 2012","catita, catita-de-cauda-curta",NA,NA
+mam_34,Monodelphis brevicaudata,Didelphimorphia,Didelphidae,Didelphinae,Monodelphis,brevicaudata,"(Erxleben, 1777)","catita, catita-de-cauda-curta",NA,NA
+mam_35,Monodelphis domestica,Didelphimorphia,Didelphidae,Didelphinae,Monodelphis,domestica,"(Wagner, 1842)","catita, catita-de-cauda-curta, cuíca-do-rabo-curto",NA,NA
+mam_36,Monodelphis glirina,Didelphimorphia,Didelphidae,Didelphinae,Monodelphis,glirina,"(Wagner, 1842)","catita, catita-de-cauda-curta",NA,NA
+mam_37,Monodelphis touan,Didelphimorphia,Didelphidae,Didelphinae,Monodelphis,touan,"(Shaw, 1800)","catita, catita-de-cauda-curta",NA,NA
+mam_38,Monodelphis vossi,Didelphimorphia,Didelphidae,Didelphinae,Monodelphis,vossi,"S. Pavan, 2019","catita, catita-de-cauda-curta",NA,NA
+mam_39,Monodelphis dimidiata,Didelphimorphia,Didelphidae,Didelphinae,Monodelphis,dimidiata,"(Wagner, 1847)","guaiquica-anã, catita",NA,NA
+mam_40,Monodelphis unistriata,Didelphimorphia,Didelphidae,Didelphinae,Monodelphis,unistriata,"(Wagner, 1842)",catita,NA,NA
+mam_41,Monodelphis emiliae,Didelphimorphia,Didelphidae,Didelphinae,Monodelphis,emiliae,"(Thomas, 1912)","catita, catita-de-cauda-curta",NA,NA
+mam_42,Metachirus myosuros,Didelphimorphia,Didelphidae,Didelphinae,Metachirus,myosuros,"(Temminck, 1824)","cuíca-de-quatro-olhos, cuíca-marrom, cuíca-rabo-de-rato, jupati",NA,NA
+mam_43,Metachirus nudicaudatus,Didelphimorphia,Didelphidae,Didelphinae,Metachirus,nudicaudatus,"(É. Geoffroy St.-Hilaire, 1803)",cuíca-de-quatro-olhos,NA,NA
+mam_44,Cryptonanus agricolai,Didelphimorphia,Didelphidae,Didelphinae,Cryptonanus,agricolai,"(Moojen, 1943)","catita, guaiquica",NA,NA
+mam_45,Cryptonanus chacoensis,Didelphimorphia,Didelphidae,Didelphinae,Cryptonanus,chacoensis,"(Tate, 1931)","catita, guaiquica",NA,NA
+mam_46,Cryptonanus guahybae,Didelphimorphia,Didelphidae,Didelphinae,Cryptonanus,guahybae,"(Tate, 1931)","catita, guaiquica",NA,NA
+mam_47,Cryptonanus unduaviensis,Didelphimorphia,Didelphidae,Didelphinae,Cryptonanus,unduaviensis,"(Tate, 1931)",catita,NA,NA
+mam_48,Gracilinanus agilis,Didelphimorphia,Didelphidae,Didelphinae,Gracilinanus,agilis,"(Burmeister, 1854)","cuíca, catita, guaiquica, cuiquinha",NA,NA
+mam_49,Gracilinanus emiliae,Didelphimorphia,Didelphidae,Didelphinae,Gracilinanus,emiliae,"(Thomas, 1909)","cuíca, catita, guaiquica",NA,NA
+mam_50,Gracilinanus microtarsus,Didelphimorphia,Didelphidae,Didelphinae,Gracilinanus,microtarsus,"(Wagner, 1842)","cuíca, catita, guaiquica, guachica, cuíca-graciosa",NA,NA
+mam_51,Gracilinanus peruanus,Didelphimorphia,Didelphidae,Didelphinae,Gracilinanus,peruanus,"(Tate, 1931)",cuíca,NA,NA
+mam_52,Marmosops caucae,Didelphimorphia,Didelphidae,Didelphinae,Marmosops,caucae,"(Thomas, 1900)","cuíca, marmosa",NA,NA
+mam_53,Marmosops incanus,Didelphimorphia,Didelphidae,Didelphinae,Marmosops,incanus,"(Lund, 1840)","cuíca, guaiquica, catita",NA,NA
+mam_54,Marmosops noctivagus,Didelphimorphia,Didelphidae,Didelphinae,Marmosops,noctivagus,"(Tschudi, 1845)","cuíca, marmosa",NA,NA
+mam_55,Marmosops ocellatus,Didelphimorphia,Didelphidae,Didelphinae,Marmosops,ocellatus,"(Tate, 1931)","cuíca, marmosa",NA,NA
+mam_56,Marmosops paulensis,Didelphimorphia,Didelphidae,Didelphinae,Marmosops,paulensis,"(Tate, 1931)","cuíca, marmosa",NA,NA
+mam_57,Marmosops bishopi,Didelphimorphia,Didelphidae,Didelphinae,Marmosops,bishopi,"(Pine, 1981)",cuíca,NA,NA
+mam_58,Marmosops marina,Didelphimorphia,Didelphidae,Didelphinae,Marmosops,marina,"Ferreira et al., 2020",cuíca,NA,NA
+mam_59,Marmosops parvidens,Didelphimorphia,Didelphidae,Didelphinae,Marmosops,parvidens,"(Tate, 1931)","cuíca, marmosa",NA,NA
+mam_60,Marmosops pinheiroi,Didelphimorphia,Didelphidae,Didelphinae,Marmosops,pinheiroi,"(Pine, 1981)","cuíca, marmosa",NA,NA
+mam_61,Marmosops woodalli,Didelphimorphia,Didelphidae,Didelphinae,Marmosops,woodalli,"(Pine, 1981)",cuíca,NA,NA
+mam_62,Thylamys macrurus,Didelphimorphia,Didelphidae,Didelphinae,Thylamys,macrurus,"(Olfers, 1818)",catita,NA,NA
+mam_63,Thylamys karimii,Didelphimorphia,Didelphidae,Didelphinae,Thylamys,karimii,"(Petter, 1968)",catita,NA,NA
+mam_64,Thylamys velutinus,Didelphimorphia,Didelphidae,Didelphinae,Thylamys,velutinus,"(Wagner, 1842)",catita,NA,NA
+mam_65,Glironia venusta,Didelphimorphia,Didelphidae,Glironiinae,Glironia,venusta,"Thomas, 1912",cuíca,NA,NA
+mam_66,Hyladelphys kalinowskii,Didelphimorphia,Didelphidae,Hyladelphinae,Hyladelphys,kalinowskii,"(Hershkovitz, 1992)","catita, guaiquica",NA,NA
+mam_67,Dasypus novemcinctus,Cingulata,Dasypodidae,Dasypodinae,Dasypus,novemcinctus,"Linnaeus, 1758","tatu-galinha, tatu-verdadeiro, tatu-de-folha, tatu-veado, tatu-liso, tatuetê, tatu-nove-bandas, tatu-preto",NA,NA
+mam_68,Dasypus beniensis,Cingulata,Dasypodidae,Dasypodinae,Dasypus,beniensis,"Lönnberg, 1942",tatu-quinze-quilos,NA,NA
+mam_69,Dasypus kappleri,Cingulata,Dasypodidae,Dasypodinae,Dasypus,kappleri,"Krauss, 1862","tatu-quinze-quilos, tatu-tinga, tatu-açu",NA,NA
+mam_70,Dasypus pastasae,Cingulata,Dasypodidae,Dasypodinae,Dasypus,pastasae,"(Thomas, 1901)",tatu-quinze-quilos,NA,NA
+mam_71,Dasypus septemcinctus,Cingulata,Dasypodidae,Dasypodinae,Dasypus,septemcinctus,"Linnaeus, 1758","tatu-capa-preta, tatuí, mulita, tatu-mirim, tatu-mula, muleta, tatu-china, tatuzinho, tatuíra, tatu-mulita",NA,NA
+mam_72,Euphractus sexcinctus,Cingulata,Chlamyphoridae,Euphractinae,Euphractus,sexcinctus,"(Linnaeus, 1758)","tatu-peba, peba, tatu-papa-defunto, tatupoiú, tatu-de-mão-amarela, tatu-cascudo, tatu-peludo, tatu-testa-de-ferro",NA,NA
+mam_73,Cabassous squamicaudis,Cingulata,Chlamyphoridae,Tolypeutinae,Cabassous,squamicaudis,"(Lund, 1845)",tatu-de-rabo-mole,NA,NA
+mam_74,Cabassous tatouay,Cingulata,Chlamyphoridae,Tolypeutinae,Cabassous,tatouay,"(Desmarest, 1804)","tatu-de-rabo-mole-grande, tatu-de-rabo-mole",NA,NA
+mam_75,Cabassous unicinctus,Cingulata,Chlamyphoridae,Tolypeutinae,Cabassous,unicinctus,"(Linnaeus, 1758)","tatu-de-rabo-mole, tatu-de-rabo-mole-comum, cabassú, tatu-rabo-de-couro, tatu-de-rabo-mole-pequeno",NA,NA
+mam_76,Priodontes maximus,Cingulata,Chlamyphoridae,Tolypeutinae,Priodontes,maximus,"(Kerr, 1792)","tatu-canastra, tatu-açu, tatuaçu",NA,NA
+mam_77,Tolypeutes matacus,Cingulata,Chlamyphoridae,Tolypeutinae,Tolypeutes,matacus,"(Desmarest, 1804)","tatu-bola, mataco",NA,NA
+mam_78,Tolypeutes tricinctus,Cingulata,Chlamyphoridae,Tolypeutinae,Tolypeutes,tricinctus,"(Linnaeus, 1758)","tatu-bola, tatu-bola-da-caatinga, tatu-apara, bola, bolinha, tranquinha, tatu-bola-do-nordeste",NA,NA
+mam_79,Bradypus crinitus,Pilosa,Bradypodidae,NA,Bradypus,crinitus,"Gray, 1850","preguiça-de-coleira, preguiça-de-coleira-do-sudeste",NA,NA
+mam_80,Bradypus torquatus,Pilosa,Bradypodidae,NA,Bradypus,torquatus,"Illiger, 1811","preguiça-de-coleira, preguiça-de-coleira-do-nordeste, aipixuna, aí-pixuna, preguiça-preta, aí-igapó",NA,NA
+mam_81,Bradypus tridactylus,Pilosa,Bradypodidae,NA,Bradypus,tridactylus,"Linnaeus, 1758","preguiça-de-bentinho, aí, preguiça-de-três-dedos, preguiça-do-norte, preguiça-de-garganta-amarela",NA,NA
+mam_82,Bradypus variegatus,Pilosa,Bradypodidae,NA,Bradypus,variegatus,"Schinz, 1825","preguiça-comum, aí, ai-ai, preguiça-marmota, preguiça-de-bentinho, preguiça-de-óculos, preguiça-de-garganta-marrom",NA,NA
+mam_83,Choloepus didactylus,Pilosa,Megalonychidae,NA,Choloepus,didactylus,"(Linnaeus, 1758)","preguiça-real, unau",NA,NA
+mam_84,Choloepus hoffmanni,Pilosa,Megalonychidae,NA,Choloepus,hoffmanni,"Peters, 1858","preguiça-de-hoffmann, preguiça-real, unau",NA,NA
+mam_85,Cyclopes didactylus,Pilosa,Cyclopedidae,NA,Cyclopes,didactylus,"(Linnaeus, 1758)","tamandua-í, tamanduá-cigarra, tamanduá-seda",NA,NA
+mam_86,Cyclopes ida,Pilosa,Cyclopedidae,NA,Cyclopes,ida,"Thomas, 1900",tamandua-í,NA,NA
+mam_87,Cyclopes rufus,Pilosa,Cyclopedidae,NA,Cyclopes,rufus,"Miranda et al., 2017",tamandua-í,NA,NA
+mam_88,Cyclopes thomasi,Pilosa,Cyclopedidae,NA,Cyclopes,thomasi,"Miranda et al., 2017",tamandua-í,NA,NA
+mam_89,Cyclopes xinguensis,Pilosa,Cyclopedidae,NA,Cyclopes,xinguensis,"Miranda et al., 2017",tamandua-í,NA,NA
+mam_90,Myrmecophaga tridactyla,Pilosa,Myrmecophagidae,NA,Myrmecophaga,tridactyla,"Linnaeus, 1758","tamanduá-bandeira, papa-formigas, tamanduá-açú, tamanduá-cavalo, iurumi, jurumi, jurumim, bandeira, bandurra",NA,NA
+mam_91,Tamandua tetradactyla,Pilosa,Myrmecophagidae,NA,Tamandua,tetradactyla,"(Linnaeus, 1758)","tamanduá-mirim, tamanduá-de-colete, tamanduá-colete, jaleco, mambira, meleta, melete, mixila, iapichau",NA,NA
+mam_92,Trichechus inunguis,Sirenia,Trichechidae,NA,Trichechus,inunguis,"(Natterer, 1883)",peixe-boi-da-amazônia,NA,NA
+mam_93,Trichechus manatus,Sirenia,Trichechidae,NA,Trichechus,manatus,"Linnaeus, 1758",peixe-boi-marinho,NA,NA
+mam_94,Alouatta belzebul,Primates,Atelidae,Alouattinae,Alouatta,belzebul,"(Linnaeus, 1766)",guariba-de-mãos-ruivas,NA,NA
+mam_95,Alouatta caraya,Primates,Atelidae,Alouattinae,Alouatta,caraya,"(Humboldt, 1812)",bugio-preto,NA,NA
+mam_96,Alouatta discolor,Primates,Atelidae,Alouattinae,Alouatta,discolor,"(Spix, 1823)",guariba-de-mãos-ruivas,NA,NA
+mam_97,Alouatta guariba,Primates,Atelidae,Alouattinae,Alouatta,guariba,"(Humboldt, 1812)","guariba, bugio-ruivo",NA,NA
+mam_98,Alouatta juara,Primates,Atelidae,Alouattinae,Alouatta,juara,"(Elliot, 1910)",guariba-vermelha,NA,NA
+mam_99,Alouatta macconnelli,Primates,Atelidae,Alouattinae,Alouatta,macconnelli,"Elliot, 1910",guariba,NA,NA
+mam_100,Alouatta nigerrima,Primates,Atelidae,Alouattinae,Alouatta,nigerrima,"Lönnberg, 1941",guariba-preta,NA,NA
+mam_101,Alouatta puruensis,Primates,Atelidae,Alouattinae,Alouatta,puruensis,"Lönnberg, 1941",guariba,NA,NA
+mam_102,Alouatta seniculus,Primates,Atelidae,Alouattinae,Alouatta,seniculus,"(Linnaeus, 1766)",guariba,NA,NA
+mam_103,Alouatta ululata,Primates,Atelidae,Alouattinae,Alouatta,ululata,"Elliot, 1912",guariba,NA,NA
+mam_104,Ateles belzebuth,Primates,Atelidae,Atelinae,Ateles,belzebuth,"É. Geoffroy St.-Hilaire, 1806",macaco-aranha,NA,NA
+mam_105,Ateles chamek,Primates,Atelidae,Atelinae,Ateles,chamek,"(Humboldt, 1812)",macaco-aranha-de-cara-preta,NA,NA
+mam_106,Ateles marginatus,Primates,Atelidae,Atelinae,Ateles,marginatus,"É. Geoffroy St.-Hilaire, 1809",coatá-da-testa-branca,NA,NA
+mam_107,Ateles paniscus,Primates,Atelidae,Atelinae,Ateles,paniscus,"(Linnaeus, 1758)",macaco-aranha,NA,NA
+mam_108,Brachyteles arachnoides,Primates,Atelidae,Atelinae,Brachyteles,arachnoides,"(É. Geoffroy St.-Hilaire, 1806)","muriqui-do-sul, mono-carvoeiro",NA,NA
+mam_109,Brachyteles hypoxanthus,Primates,Atelidae,Atelinae,Brachyteles,hypoxanthus,"(Wied-Neuwied, 1820)","muriqui-do-norte, mono-carvoeiro",NA,NA
+mam_110,Lagothrix cana,Primates,Atelidae,Atelinae,Lagothrix,cana,"(É. Geoffroy St.-Hilaire, 1812)",macaco-barrigudo,NA,NA
+mam_111,Lagothrix lagothrica,Primates,Atelidae,Atelinae,Lagothrix,lagothrica,"(Humboldt, 1811)",macaco-barrigudo,NA,NA
+mam_112,Lagothrix poeppigii,Primates,Atelidae,Atelinae,Lagothrix,poeppigii,"Schinz, 1844",macaco-barrigudo,NA,NA
+mam_113,Aotus azarae,Primates,Cebidae,Aotinae,Aotus,azarae,"(Humboldt, 1812)",macaco-da-noite,NA,NA
+mam_114,Aotus infulatus,Primates,Cebidae,Aotinae,Aotus,infulatus,"(Kuhl, 1820)",macaco-da-noite,NA,NA
+mam_115,Aotus nancymae,Primates,Cebidae,Aotinae,Aotus,nancymae,"Hershkovitz, 1983",macaco-da-noite,NA,NA
+mam_116,Aotus nigriceps,Primates,Cebidae,Aotinae,Aotus,nigriceps,"Dollman, 1909",macaco-da-noite,NA,NA
+mam_117,Aotus trivirgatus,Primates,Cebidae,Aotinae,Aotus,trivirgatus,"(Humboldt, 1812)",macaco-da-noite,NA,NA
+mam_118,Aotus vociferans,Primates,Cebidae,Aotinae,Aotus,vociferans,"(Spix, 1823)",macaco-da-noite,NA,NA
+mam_119,Callimico goeldii,Primates,Cebidae,Callitrichinae,Callimico,goeldii,"(Thomas, 1904)","mico-preto, soim-preto, taboqueiro, sagui-de-goeldi",NA,NA
+mam_120,Callithrix aurita,Primates,Cebidae,Callitrichinae,Callithrix,aurita,"(É. Geoffroy St.-Hilaire, 1812)",sagui-da-serra-escuro,NA,NA
+mam_121,Callithrix flaviceps,Primates,Cebidae,Callitrichinae,Callithrix,flaviceps,"(Thomas, 1903)",sagui-da-serra-claro,NA,NA
+mam_122,Callithrix geoffroyi,Primates,Cebidae,Callitrichinae,Callithrix,geoffroyi,"(Humboldt, 1812)",sagui-da-cara-branca,NA,NA
+mam_123,Callithrix jacchus,Primates,Cebidae,Callitrichinae,Callithrix,jacchus,"(Linnaeus, 1758)",sagui-de-tufo-branco,NA,NA
+mam_124,Callithrix kuhlii,Primates,Cebidae,Callitrichinae,Callithrix,kuhlii,"Coimbra-Filho, 1985",sagui-de-wied,NA,NA
+mam_125,Callithrix penicillata,Primates,Cebidae,Callitrichinae,Callithrix,penicillata,"(É. Geoffroy St.-Hilaire, 1812)","sagui-de-tufos-pretos, mico-estrela",NA,NA
+mam_126,Cebuella niveiventris,Primates,Cebidae,Callitrichinae,Cebuella,niveiventris,"Lönnberg, 1940","mico-leãozinho, sagui-leãozinho, sagui-pigmeu",NA,NA
+mam_127,Cebuella pygmaea,Primates,Cebidae,Callitrichinae,Cebuella,pygmaea,"(Spix, 1823)","mico-leãozinho, sagui-leãozinho, sagui-pigmeu",NA,NA
+mam_128,Leontopithecus caissara,Primates,Cebidae,Callitrichinae,Leontopithecus,caissara,"Lorini & Persson, 1990",mico-leão-da-cara-preta,NA,NA
+mam_129,Leontopithecus chrysomelas,Primates,Cebidae,Callitrichinae,Leontopithecus,chrysomelas,"(Kuhl, 1820)","mico-leão-da-cara-dourada, sauí-una",NA,NA
+mam_130,Leontopithecus chrysopygus,Primates,Cebidae,Callitrichinae,Leontopithecus,chrysopygus,"(Mikan, 1823)","mico-leão-preto, sauí-preto",NA,NA
+mam_131,Leontopithecus rosalia,Primates,Cebidae,Callitrichinae,Leontopithecus,rosalia,"(Linnaeus, 1766)","mico-leão-dourado, sauimpiranga",NA,NA
+mam_132,Mico acariensis,Primates,Cebidae,Callitrichinae,Mico,acariensis,"(M. Roosmalen et al., 2000)",sagui-do-rio-acari,NA,NA
+mam_133,Mico argentatus,Primates,Cebidae,Callitrichinae,Mico,argentatus,"(Linnaeus, 1771)","sagui-argênteo, sauim-branco",NA,NA
+mam_134,Mico chrysoleucos,Primates,Cebidae,Callitrichinae,Mico,chrysoleucos,"(Wagner, 1842)","sagui-de-tufos-brancos, sauim-branco",NA,NA
+mam_135,Mico emiliae,Primates,Cebidae,Callitrichinae,Mico,emiliae,"(Thomas, 1920)",sagui-de-snethlage,NA,NA
+mam_136,Mico humeralifer,Primates,Cebidae,Callitrichinae,Mico,humeralifer,"(É. Geoffroy St.-Hilaire, 1812)",sagui-de-tufos,NA,NA
+mam_137,Mico humilis,Primates,Cebidae,Callitrichinae,Mico,humilis,"(M. Roosmalen et al., 1998)","sauim, mico-leão, mico-leãozinho, jeitinho, catípuru",NA,NA
+mam_138,Mico intermedius,Primates,Cebidae,Callitrichinae,Mico,intermedius,"(Hershkovitz, 1977)",sagui-intermédio,NA,NA
+mam_139,Mico leucippe,Primates,Cebidae,Callitrichinae,Mico,leucippe,"Thomas, 1922",sagui-de-orelha-nua-branco,NA,NA
+mam_140,Mico marcai,Primates,Cebidae,Callitrichinae,Mico,marcai,"(Alperin, 1993)",sagui-de-marca,NA,NA
+mam_141,Mico mauesi,Primates,Cebidae,Callitrichinae,Mico,mauesi,"(Mittermeier, Schwartz & Ayres, 1992)",sagui-de-tufos,NA,NA
+mam_142,Mico melanurus,Primates,Cebidae,Callitrichinae,Mico,melanurus,"(É. Geoffroy St.-Hilaire, 1812)","sagui, sagui-marrom, sagui-de-rabo-preto",NA,NA
+mam_143,Mico munduruku,Primates,Cebidae,Callitrichinae,Mico,munduruku,"Costa-Araújo, Farias & Hrbek, 2019",sauim-branco,NA,NA
+mam_144,Mico nigriceps,Primates,Cebidae,Callitrichinae,Mico,nigriceps,"(Ferrari & Lopes, 1992)",sagui-de-cabeça-preta,NA,NA
+mam_145,Mico rondoni,Primates,Cebidae,Callitrichinae,Mico,rondoni,"Ferrari et al., 2010","sagui-de-rondônia, macaquinho-branco, mico-cinza, sagui-branco",NA,NA
+mam_146,Mico saterei,Primates,Cebidae,Callitrichinae,Mico,saterei,"(Silva Junior & Noronha, 1998)","sagui-dos-saterê, sauim-de-cara-branca, mico-leão",NA,NA
+mam_147,Mico schneideri,Primates,Cebidae,Callitrichinae,Mico,schneideri,"Costa-Araújo, Silva-Jr., Boubli, Rossi, Hrbek & Farias, 2021",sagui-de-Schneider,NA,NA
+mam_148,Saguinus cruzlimai,Primates,Cebidae,Callitrichinae,Saguinus,cruzlimai,"Hershkovitz, 1966","sagui, sauim",NA,NA
+mam_149,Saguinus fuscicollis,Primates,Cebidae,Callitrichinae,Saguinus,fuscicollis,"(Spix, 1823)",sagui-de-cara-suja,NA,NA
+mam_150,Saguinus fuscus,Primates,Cebidae,Callitrichinae,Saguinus,fuscus,"(Lesson, 1840)",sagui-de-cara-suja,NA,NA
+mam_151,Saguinus nigricollis,Primates,Cebidae,Callitrichinae,Saguinus,nigricollis,"(Spix, 1823)","sagui, sauim",NA,NA
+mam_152,Saguinus weddelli,Primates,Cebidae,Callitrichinae,Saguinus,weddelli,"(Deville, 1849)","sagui-branco, sauim-branco",NA,NA
+mam_153,Saguinus bicolor,Primates,Cebidae,Callitrichinae,Saguinus,bicolor,"(Spix, 1823)",sauim-de-coleira,NA,NA
+mam_154,Saguinus martinsi,Primates,Cebidae,Callitrichinae,Saguinus,martinsi,"(Thomas, 1912)","sauim, soim",NA,NA
+mam_155,Saguinus midas,Primates,Cebidae,Callitrichinae,Saguinus,midas,"(Linnaeus, 1758)",sagui-da-mão-dourada,NA,NA
+mam_156,Saguinus niger,Primates,Cebidae,Callitrichinae,Saguinus,niger,"(É. Geoffroy St.-Hilaire, 1803)",sagui-una,NA,NA
+mam_157,Saguinus ursula,Primates,Cebidae,Callitrichinae,Saguinus,ursula,"Hoffmannsegg, 1807","sagui, sauim",NA,NA
+mam_158,Saguinus imperator,Primates,Cebidae,Callitrichinae,Saguinus,imperator,"(Goeldi, 1907)","bigodeiro, macaco-bigodeiro, sagui-bigodeiro",NA,NA
+mam_159,Saguinus inustus,Primates,Cebidae,Callitrichinae,Saguinus,inustus,"(Schwartz, 1951)","sagui, sauim",NA,NA
+mam_160,Saguinus labiatus,Primates,Cebidae,Callitrichinae,Saguinus,labiatus,"(É. Geoffroy St.-Hilaire, 1812)",sagui-de-boca-branca,NA,NA
+mam_161,Saguinus mystax,Primates,Cebidae,Callitrichinae,Saguinus,mystax,"(Spix, 1823)",sagui-de-bigode,NA,NA
+mam_162,Cebus albifrons,Primates,Cebidae,Cebinae,Cebus,albifrons,"(Humboldt, 1811)",caiarara,NA,NA
+mam_163,Cebus kaapori,Primates,Cebidae,Cebinae,Cebus,kaapori,"Queiroz, 1992",caiarara,NA,NA
+mam_164,Cebus olivaceus,Primates,Cebidae,Cebinae,Cebus,olivaceus,"Schomburgk, 1848",caiarara,NA,NA
+mam_165,Cebus unicolor,Primates,Cebidae,Cebinae,Cebus,unicolor,"Spix, 1823",caiarara,NA,NA
+mam_166,Saimiri boliviensis,Primates,Cebidae,Cebinae,Saimiri,boliviensis,"(I. Geoffroy St.-Hilaire & Blainville, 1834)",macaco-de-cheiro,NA,NA
+mam_167,Saimiri cassiquiarensis,Primates,Cebidae,Cebinae,Saimiri,cassiquiarensis,"(Lesson, 1840)",macaco-de-cheiro,NA,NA
+mam_168,Saimiri collinsi,Primates,Cebidae,Cebinae,Saimiri,collinsi,"Osgood, 1916",macaco-de-cheiro,NA,NA
+mam_169,Saimiri macrodon,Primates,Cebidae,Cebinae,Saimiri,macrodon,"Elliot, 1907",macaco-de-cheiro,NA,NA
+mam_170,Saimiri sciureus,Primates,Cebidae,Cebinae,Saimiri,sciureus,"(Linnaeus, 1758)",macaco-de-cheiro,NA,NA
+mam_171,Saimiri ustus,Primates,Cebidae,Cebinae,Saimiri,ustus,"(I. Geoffroy St.-Hilaire, 1843)",macaco-de-cheiro,NA,NA
+mam_172,Saimiri vanzolinii,Primates,Cebidae,Cebinae,Saimiri,vanzolinii,"Ayres, 1985",macaco-de-cheiro-de-cabeça-preta,NA,NA
+mam_173,Sapajus apella,Primates,Cebidae,Cebinae,Sapajus,apella,"(Linnaeus, 1758)",macaco-prego,NA,NA
+mam_174,Sapajus cay,Primates,Cebidae,Cebinae,Sapajus,cay,"(Illiger, 1815)",macaco-prego,NA,NA
+mam_175,Sapajus flavius,Primates,Cebidae,Cebinae,Sapajus,flavius,"(Schreber, 1799)",macaco-prego-galego,NA,NA
+mam_176,Sapajus libidinosus,Primates,Cebidae,Cebinae,Sapajus,libidinosus,"(Spix, 1823)",macaco-prego,NA,NA
+mam_177,Sapajus macrocephalus,Primates,Cebidae,Cebinae,Sapajus,macrocephalus,"(Spix, 1823)",macaco-prego,NA,NA
+mam_178,Sapajus nigritus,Primates,Cebidae,Cebinae,Sapajus,nigritus,"(Goldfuss, 1809)","macaco-prego, mico",NA,NA
+mam_179,Sapajus robustus,Primates,Cebidae,Cebinae,Sapajus,robustus,"(Kuhl, 1820)",macaco-prego-de-crista,NA,NA
+mam_180,Sapajus xanthosternos,Primates,Cebidae,Cebinae,Sapajus,xanthosternos,"(Wied-Neuwied, 1820)",macaco-prego-do-peito-amarelo,NA,NA
+mam_181,Cacajao amuna,Primates,Pitheciidae,Pitheciinae,Cacajao,amuna,"Silva et al., 2022",uacari-branco,NA,NA
+mam_182,Cacajao calvus,Primates,Pitheciidae,Pitheciinae,Cacajao,calvus,"(I. Geoffroy St.-Hilaire, 1847)",uacari-branco,NA,NA
+mam_183,Cacajao melanocephalus,Primates,Pitheciidae,Pitheciinae,Cacajao,melanocephalus,"(Humboldt, 1811)",uacari-preto,NA,NA
+mam_184,Cacajao novaesi,Primates,Pitheciidae,Pitheciinae,Cacajao,novaesi,"Hershkovitz, 1987",uacari-branco,NA,NA
+mam_185,Cacajao ouakary,Primates,Pitheciidae,Pitheciinae,Cacajao,ouakary,"(Spix, 1823)","uacari-preto, bicó",NA,NA
+mam_186,Cacajao rubicundus,Primates,Pitheciidae,Pitheciinae,Cacajao,rubicundus,"(I. Geoffroy St.-Hilaire & Deville, 1848)",uacari-branco,NA,NA
+mam_187,Cacajao ucayalii,Primates,Pitheciidae,Pitheciinae,Cacajao,ucayalii,"Thomas, 1928",uacari-branco,NA,NA
+mam_188,Chiropotes albinasus,Primates,Pitheciidae,Pitheciinae,Chiropotes,albinasus,"(I. Geoffroy St.-Hilaire & Deville, 1848)",cuxiú-de-nariz-vermelho,NA,NA
+mam_189,Chiropotes chiropotes,Primates,Pitheciidae,Pitheciinae,Chiropotes,chiropotes,"(Humboldt, 1811)",cuxiú,NA,NA
+mam_190,Chiropotes sagulatus,Primates,Pitheciidae,Pitheciinae,Chiropotes,sagulatus,"(Traill, 1821)",cuxiú,NA,NA
+mam_191,Chiropotes satanas,Primates,Pitheciidae,Pitheciinae,Chiropotes,satanas,"(Hoffmannsegg, 1807)",cuxiú-preto,NA,NA
+mam_192,Chiropotes utahickae,Primates,Pitheciidae,Pitheciinae,Chiropotes,utahickae,"Hershkovitz, 1985",cuxiú,NA,NA
+mam_193,Pithecia albicans,Primates,Pitheciidae,Pitheciinae,Pithecia,albicans,"(Gray, 1860)",parauacu-branco,NA,NA
+mam_194,Pithecia cazuzai,Primates,Pitheciidae,Pitheciinae,Pithecia,cazuzai,"Marsh, 2014",parauacu,NA,NA
+mam_195,Pithecia chrysocephala,Primates,Pitheciidae,Pitheciinae,Pithecia,chrysocephala,"I. Geoffroy St.-Hilaire, 1850",parauacu-da-cara-branca,NA,NA
+mam_196,Pithecia hirsuta,Primates,Pitheciidae,Pitheciinae,Pithecia,hirsuta,"(Spix, 1823)","parauacu, macaco-cabeludo, macaco-velho",NA,NA
+mam_197,Pithecia inusta,Primates,Pitheciidae,Pitheciinae,Pithecia,inusta,"(Spix, 1823)","parauacu, macaco-cabeludo, macaco-velho",NA,NA
+mam_198,Pithecia irrorata,Primates,Pitheciidae,Pitheciinae,Pithecia,irrorata,"Gray, 1843","parauacu, macaco-cabeludo, macaco-velho",NA,NA
+mam_199,Pithecia vanzolinii,Primates,Pitheciidae,Pitheciinae,Pithecia,vanzolinii,"(Hershkovitz, 1987)",parauacu,NA,NA
+mam_200,Pithecia monachus,Primates,Pitheciidae,Pitheciinae,Pithecia,monachus,"É. Geoffroy St.-Hilaire, 1812","parauacu, macaco-voador, macaco-velho",NA,NA
+mam_201,Pithecia pithecia,Primates,Pitheciidae,Pitheciinae,Pithecia,pithecia,"(Linnaeus, 1766)",parauacu-da-cara-branca,NA,NA
+mam_202,Callicebus barbarabrownae,Primates,Pitheciidae,Callicebinae,Callicebus,barbarabrownae,"Hershkovitz, 1990",guigó-da-caatinga,NA,NA
+mam_203,Callicebus coimbrai,Primates,Pitheciidae,Callicebinae,Callicebus,coimbrai,"Kobayashi & Langguth, 1999",guigó,NA,NA
+mam_204,Callicebus melanochir,Primates,Pitheciidae,Callicebinae,Callicebus,melanochir,"(Wied-Neuwied, 1820)",guigó,NA,NA
+mam_205,Callicebus nigrifrons,Primates,Pitheciidae,Callicebinae,Callicebus,nigrifrons,"(Spix, 1823)",guigó,NA,NA
+mam_206,Callicebus personatus,Primates,Pitheciidae,Callicebinae,Callicebus,personatus,"(É. Geoffroy St.-Hilaire, 1812)",sauá-de-cara-preta,NA,NA
+mam_207,Callicebus lucifer,Primates,Pitheciidae,Callicebinae,Callicebus,lucifer,"Thomas, 1914",zogue-zogue,NA,NA
+mam_208,Callicebus lugens,Primates,Pitheciidae,Callicebinae,Callicebus,lugens,"(Humboldt, 1811)",sauá-de-colar,NA,NA
+mam_209,Callicebus regulus,Primates,Pitheciidae,Callicebinae,Callicebus,regulus,"Thomas, 1927",zogue-zogue,NA,NA
+mam_210,Callicebus torquatus,Primates,Pitheciidae,Callicebinae,Callicebus,torquatus,"(Hoffmannsegg, 1807)",sauá-de-colar,NA,NA
+mam_211,Callicebus baptista,Primates,Pitheciidae,Callicebinae,Callicebus,baptista,"Lönnberg, 1939",zogue-zogue,NA,NA
+mam_212,Callicebus bernhardi,Primates,Pitheciidae,Callicebinae,Callicebus,bernhardi,"M. Roomalen, T. Roosmalen & Mittermeier, 2002",zogue-zogue,NA,NA
+mam_213,Callicebus brunneus,Primates,Pitheciidae,Callicebinae,Callicebus,brunneus,"(Wagner, 1842)",zogue-zogue,NA,NA
+mam_214,Callicebus caligatus,Primates,Pitheciidae,Callicebinae,Callicebus,caligatus,"(Wagner, 1842)",zogue-zogue,NA,NA
+mam_215,Callicebus cinerascens,Primates,Pitheciidae,Callicebinae,Callicebus,cinerascens,"(Spix, 1823)",zogue-zogue,NA,NA
+mam_216,Callicebus cupreus,Primates,Pitheciidae,Callicebinae,Callicebus,cupreus,"(Spix, 1823)",zogue-zogue,NA,NA
+mam_217,Callicebus donacophilus,Primates,Pitheciidae,Callicebinae,Callicebus,donacophilus,"(d'Orbigny, 1836)",zogue-zogue,NA,NA
+mam_218,Callicebus grovesi,Primates,Pitheciidae,Callicebinae,Callicebus,grovesi,"(Boubli et al., 2019)",zogue-zogue,NA,NA
+mam_219,Callicebus hoffmannsi,Primates,Pitheciidae,Callicebinae,Callicebus,hoffmannsi,"Thomas, 1908",zogue-zogue,NA,NA
+mam_220,Callicebus miltoni,Primates,Pitheciidae,Callicebinae,Callicebus,miltoni,"Dalponte, F. Silva & Silva Júnior, 2014",zogue-zogue,NA,NA
+mam_221,Callicebus moloch,Primates,Pitheciidae,Callicebinae,Callicebus,moloch,"(Hoffmannsegg, 1807)",sauá-de-barriga-vermelha,NA,NA
+mam_222,Callicebus pallescens,Primates,Pitheciidae,Callicebinae,Callicebus,pallescens,"Thomas, 1907",zogue-zogue,NA,NA
+mam_223,Callicebus parecis,Primates,Pitheciidae,Callicebinae,Callicebus,parecis,"(Gusmão et al., 2019)",zogue-zogue,NA,NA
+mam_224,Callicebus vieirai,Primates,Pitheciidae,Callicebinae,Callicebus,vieirai,"Gualda-Barros, Nascimento & Amaral, 2012",zogue-zogue,NA,NA
+mam_225,Sylvilagus brasiliensis,Lagomorpha,Leporidae,NA,Sylvilagus,brasiliensis,"(Linnaeus, 1758)",tapiti,NA,NA
+mam_226,Sylvilagus minensis,Lagomorpha,Leporidae,NA,Sylvilagus,minensis,"Thomas, 1901",tapiti,NA,NA
+mam_227,Sylvilagus paraguensis,Lagomorpha,Leporidae,NA,Sylvilagus,paraguensis,"Thomas, 1901",tapiti,NA,NA
+mam_228,Sylvilagus tapetillus ,Lagomorpha,Leporidae,NA,Sylvilagus,tapetillus ,NA,tapiti,NA,NA
+mam_229,Cavia aperea,Rodentia,Caviidae,NA,Cavia,aperea,"Erxleben, 1777",preá,NA,NA
+mam_230,Cavia fulgida,Rodentia,Caviidae,NA,Cavia,fulgida,"Wagler, 1831",preá,NA,NA
+mam_231,Cavia intermedia,Rodentia,Caviidae,NA,Cavia,intermedia,"Cherem, Olimpio & Ximenez, 1999",preá,NA,NA
+mam_232,Cavia magna,Rodentia,Caviidae,NA,Cavia,magna,"Ximenez, 1980",preá,NA,NA
+mam_233,Galea flavidens,Rodentia,Caviidae,NA,Galea,flavidens,"(Brandt, 1835)",preá,NA,NA
+mam_234,Galea spixii,Rodentia,Caviidae,NA,Galea,spixii,"(Wagler, 1831)",preá,NA,NA
+mam_235,Hydrochoerus hydrochaeris,Rodentia,Caviidae,NA,Hydrochoerus,hydrochaeris,"(Linnaeus, 1766)",capivara,NA,NA
+mam_236,Kerodon acrobata,Rodentia,Caviidae,NA,Kerodon,acrobata,"Moojen, Locks & Langguth, 1997",mocó,NA,NA
+mam_237,Kerodon rupestris,Rodentia,Caviidae,NA,Kerodon,rupestris,"(Wied-Neuwied, 1820)",mocó,NA,NA
+mam_238,Ctenomys bicolor,Rodentia,Ctenomyidae,NA,Ctenomys,bicolor,"Miranda-Ribeiro, 1914",tuco-tuco,NA,NA
+mam_239,Ctenomys flamarioni,Rodentia,Ctenomyidae,NA,Ctenomys,flamarioni,"Travi, 1981",tuco-tuco,NA,NA
+mam_240,Ctenomys ibicuiensis,Rodentia,Ctenomyidae,NA,Ctenomys,ibicuiensis,"Freitas et al., 2012",tuco-tuco,NA,NA
+mam_241,Ctenomys lami,Rodentia,Ctenomyidae,NA,Ctenomys,lami,"Freitas, 2001",tuco-tuco,NA,NA
+mam_242,Ctenomys minutus,Rodentia,Ctenomyidae,NA,Ctenomys,minutus,"Nehring, 1887",tuco-tuco,NA,NA
+mam_243,Ctenomys nattereri,Rodentia,Ctenomyidae,NA,Ctenomys,nattereri,"Wagner, 1848",tuco-tuco,NA,NA
+mam_244,Ctenomys rondoni,Rodentia,Ctenomyidae,NA,Ctenomys,rondoni,"Miranda-Ribeiro, 1914",tuco-tuco,NA,NA
+mam_245,Ctenomys torquatus,Rodentia,Ctenomyidae,NA,Ctenomys,torquatus,"Lichtenstein, 1830",tuco-tuco,NA,NA
+mam_246,Cuniculus paca,Rodentia,Cuniculidae,NA,Cuniculus,paca,"(Linnaeus, 1766)",paca,NA,NA
+mam_247,Dasyprocta azarae,Rodentia,Dasyproctidae,NA,Dasyprocta,azarae,"Lichtenstein, 1823",cutia,NA,NA
+mam_248,Dasyprocta croconota,Rodentia,Dasyproctidae,NA,Dasyprocta,croconota,"Wagler, 1831",cutia,NA,NA
+mam_249,Dasyprocta fuliginosa,Rodentia,Dasyproctidae,NA,Dasyprocta,fuliginosa,"Wagler, 1832",cutia,NA,NA
+mam_250,Dasyprocta iacki,Rodentia,Dasyproctidae,NA,Dasyprocta,iacki,"Feijó & Langguth, 2013",cutia-de-garupa-laranja,NA,NA
+mam_251,Dasyprocta leporina,Rodentia,Dasyproctidae,NA,Dasyprocta,leporina,"(Linnaeus, 1758)",cutia,NA,NA
+mam_252,Dasyprocta prymnolopha,Rodentia,Dasyproctidae,NA,Dasyprocta,prymnolopha,"Wagler, 1831",cutia,NA,NA
+mam_253,Dasyprocta variegata,Rodentia,Dasyproctidae,NA,Dasyprocta,variegata,"Tschudi, 1845",cutia,NA,NA
+mam_254,Myoprocta acouchy,Rodentia,Dasyproctidae,NA,Myoprocta,acouchy,"(Erxleben, 1777)",cutiara,NA,NA
+mam_255,Myoprocta pratti,Rodentia,Dasyproctidae,NA,Myoprocta,pratti,"Pocock, 1913",cutiara,NA,NA
+mam_256,Dinomys branickii,Rodentia,Dinomyidae,NA,Dinomys,branickii,"Peters, 1873",pacarana,NA,NA
+mam_257,Carterodon sulcidens,Rodentia,Echimyidae,Carterodontinae,Carterodon,sulcidens,"(Lund, 1838)",rato-do-mato,NA,NA
+mam_258,Dactylomys boliviensis,Rodentia,Echimyidae,Echimyinae,Dactylomys,boliviensis,"Anthony, 1920",toró,NA,NA
+mam_259,Dactylomys dactylinus,Rodentia,Echimyidae,Echimyinae,Dactylomys,dactylinus,"(Desmarest, 1817)",toró,NA,NA
+mam_260,Echimys chrysurus,Rodentia,Echimyidae,Echimyinae,Echimys,chrysurus,"(Zimmermann, 1780)",rato-da-árvore,NA,NA
+mam_261,Echimys vieirai,Rodentia,Echimyidae,Echimyinae,Echimys,vieirai,"Iack-Ximenes, Vivo & Percequillo, 2005",rato-da-árvore,NA,NA
+mam_262,Isothrix bistriata,Rodentia,Echimyidae,Echimyinae,Isothrix,bistriata,"Wagner, 1845",rato-coró,NA,NA
+mam_263,Isothrix negrensis,Rodentia,Echimyidae,Echimyinae,Isothrix,negrensis,"Thomas, 1920",rato-coró,NA,NA
+mam_264,Isothrix pagurus,Rodentia,Echimyidae,Echimyinae,Isothrix,pagurus,"Wagner, 1845",rato-coró,NA,NA
+mam_265,Isothrix sinnamariensis,Rodentia,Echimyidae,Echimyinae,Isothrix,sinnamariensis,"Vié et al., 1996",rato-coró,NA,NA
+mam_266,Kannabateomys amblyonyx,Rodentia,Echimyidae,Echimyinae,Kannabateomys,amblyonyx,"(Wagner, 1845)",rato-da-taquara,NA,NA
+mam_267,Lonchothrix emiliae,Rodentia,Echimyidae,Echimyinae,Lonchothrix,emiliae,"Thomas, 1920",rato-de-espinho,NA,NA
+mam_268,Makalata didelphoides,Rodentia,Echimyidae,Echimyinae,Makalata,didelphoides,"(Desmarest, 1817)",rato-coró,NA,NA
+mam_269,Makalata macrura,Rodentia,Echimyidae,Echimyinae,Makalata,macrura,"(Wagner, 1842)",rato-coró,NA,NA
+mam_270,Makalata obscura,Rodentia,Echimyidae,Echimyinae,Makalata,obscura,"(Wagner, 1840)",rato-coró,NA,NA
+mam_271,Mesomys hispidus,Rodentia,Echimyidae,Echimyinae,Mesomys,hispidus,"(Desmarest, 1817)",rato-do-espinho,NA,NA
+mam_272,Mesomys occultus,Rodentia,Echimyidae,Echimyinae,Mesomys,occultus,"Patton, da Silva & Malcolm, 2000",rato-do-espinho,NA,NA
+mam_273,Mesomys stimulax,Rodentia,Echimyidae,Echimyinae,Mesomys,stimulax,"Thomas, 1911",rato-do-espinho,NA,NA
+mam_274,Phyllomys blainvilii,Rodentia,Echimyidae,Echimyinae,Phyllomys,blainvilii,"(Jourdan, 1837)",rato-da-árvore,NA,NA
+mam_275,Phyllomys brasiliensis,Rodentia,Echimyidae,Echimyinae,Phyllomys,brasiliensis,"Lund, 1840",rato-da-árvore,NA,NA
+mam_276,Phyllomys centralis,Rodentia,Echimyidae,Echimyinae,Phyllomys,centralis,"Machado et al., 2018",rato-da-árvore,NA,NA
+mam_277,Phyllomys dasythrix,Rodentia,Echimyidae,Echimyinae,Phyllomys,dasythrix,"Hensel, 1872",rato-da-árvore,NA,NA
+mam_278,Phyllomys kerri,Rodentia,Echimyidae,Echimyinae,Phyllomys,kerri,"(Moojen, 1950)",rato-da-árvore,NA,NA
+mam_279,Phyllomys lamarum,Rodentia,Echimyidae,Echimyinae,Phyllomys,lamarum,"(Thomas, 1916)",rato-da-árvore,NA,NA
+mam_280,Phyllomys lundi,Rodentia,Echimyidae,Echimyinae,Phyllomys,lundi,"Leite, 2003",rato-da-árvore,NA,NA
+mam_281,Phyllomys mantiqueirensis,Rodentia,Echimyidae,Echimyinae,Phyllomys,mantiqueirensis,"Leite, 2003",rato-da-árvore,NA,NA
+mam_282,Phyllomys medius,Rodentia,Echimyidae,Echimyinae,Phyllomys,medius,"(Thomas, 1909)",rato-da-árvore,NA,NA
+mam_283,Phyllomys nigrispinus,Rodentia,Echimyidae,Echimyinae,Phyllomys,nigrispinus,"(Wagner, 1842)",rato-da-árvore,NA,NA
+mam_284,Phyllomys pattoni,Rodentia,Echimyidae,Echimyinae,Phyllomys,pattoni,"Emmons et al., 2002",rato-da-árvore,NA,NA
+mam_285,Phyllomys sulinus,Rodentia,Echimyidae,Echimyinae,Phyllomys,sulinus,"Leite, Christoff & Fagundes, 2008",rato-da-árvore,NA,NA
+mam_286,Phyllomys thomasi,Rodentia,Echimyidae,Echimyinae,Phyllomys,thomasi,"(Ihering, 1897)",rato-da-árvore,NA,NA
+mam_287,Phyllomys unicolor,Rodentia,Echimyidae,Echimyinae,Phyllomys,unicolor,"(Wagner, 1842)",rato-sauiá,NA,NA
+mam_288,Toromys grandis,Rodentia,Echimyidae,Echimyinae,Toromys,grandis,"(Wagner, 1845)",rato-da-árvore,NA,NA
+mam_289,Callistomys pictus,Rodentia,Echimyidae,Echimyinae,Callistomys,pictus,"(Pictet, 1843)",rato-do-cacau,NA,NA
+mam_290,Myocastor coypus,Rodentia,Echimyidae,Echimyinae,Myocastor,coypus,"(Molina, 1782)",ratão-do-banhado,NA,NA
+mam_291,Proechimys brevicauda,Rodentia,Echimyidae,Echimyinae,Proechimys,brevicauda,"(Günther, 1876)",rato-de-espinho,NA,NA
+mam_292,Proechimys cuvieri,Rodentia,Echimyidae,Echimyinae,Proechimys,cuvieri,"Petter, 1978",rato-de-espinho,NA,NA
+mam_293,Proechimys echinothrix,Rodentia,Echimyidae,Echimyinae,Proechimys,echinothrix,"da Silva, 1998",rato-de-espinho,NA,NA
+mam_294,Proechimys gardneri,Rodentia,Echimyidae,Echimyinae,Proechimys,gardneri,"da Silva, 1998",rato-de-espinho,NA,NA
+mam_295,Proechimys goeldii,Rodentia,Echimyidae,Echimyinae,Proechimys,goeldii,"Thomas, 1905",rato-de-espinho,NA,NA
+mam_296,Proechimys guyannensis,Rodentia,Echimyidae,Echimyinae,Proechimys,guyannensis,"(É. Geoffroy St.-Hilaire, 1803)",rato-de-espinho,NA,NA
+mam_297,Proechimys kulinae,Rodentia,Echimyidae,Echimyinae,Proechimys,kulinae,"da Silva, 1998",rato-de-espinho,NA,NA
+mam_298,Proechimys longicaudatus,Rodentia,Echimyidae,Echimyinae,Proechimys,longicaudatus,"(Rengger, 1830)",rato-de-espinho,NA,NA
+mam_299,Proechimys pattoni,Rodentia,Echimyidae,Echimyinae,Proechimys,pattoni,"da Silva, 1998",rato-de-espinho,NA,NA
+mam_300,Proechimys quadruplicatus,Rodentia,Echimyidae,Echimyinae,Proechimys,quadruplicatus,"Hershkovitz, 1948",rato-de-espinho,NA,NA
+mam_301,Proechimys roberti,Rodentia,Echimyidae,Echimyinae,Proechimys,roberti,"Thomas, 1901",rato-de-espinho,NA,NA
+mam_302,Proechimys simonsi,Rodentia,Echimyidae,Echimyinae,Proechimys,simonsi,"Thomas, 1900",rato-de-espinho,NA,NA
+mam_303,Proechimys steerei,Rodentia,Echimyidae,Echimyinae,Proechimys,steerei,"Goldman, 1911",rato-de-espinho,NA,NA
+mam_304,Thrichomys apereoides,Rodentia,Echimyidae,Echimyinae,Thrichomys,apereoides,"(Lund, 1839)",punaré,NA,NA
+mam_305,Thrichomys inermis,Rodentia,Echimyidae,Echimyinae,Thrichomys,inermis,"(Pictet, 1843)",punaré,NA,NA
+mam_306,Thrichomys fosteri ,Rodentia,Echimyidae,Echimyinae,Thrichomys,fosteri ,NA,punaré,NA,NA
+mam_307,Thrichomys laurentius,Rodentia,Echimyidae,Echimyinae,Thrichomys,laurentius,"Thomas, 1904",punaré,NA,NA
+mam_308,Thrichomys pachyurus,Rodentia,Echimyidae,Echimyinae,Thrichomys,pachyurus,"(Wagner, 1845)",punaré,NA,NA
+mam_309,Clyomys laticeps,Rodentia,Echimyidae,Euryzygomatomyinae,Clyomys,laticeps,"(Thomas, 1909)",rato-do-espinho,NA,NA
+mam_310,Euryzygomatomys spinosus,Rodentia,Echimyidae,Euryzygomatomyinae,Euryzygomatomys,spinosus,"(Fischer, 1814)",guirá,NA,NA
+mam_311,Trinomys albispinus,Rodentia,Echimyidae,Euryzygomatomyinae,Trinomys,albispinus,"(I. Geoffroy St.-Hilaire, 1838)",rato-de-espinho,NA,NA
+mam_312,Trinomys dimidiatus,Rodentia,Echimyidae,Euryzygomatomyinae,Trinomys,dimidiatus,"(Günther, 1877)",rato-de-espinho,NA,NA
+mam_313,Trinomys eliasi,Rodentia,Echimyidae,Euryzygomatomyinae,Trinomys,eliasi,"(Pessôa & dos Reis, 1993)",rato-de-espinho,NA,NA
+mam_314,Trinomys gratiosus,Rodentia,Echimyidae,Euryzygomatomyinae,Trinomys,gratiosus,"(Moojen, 1948)",rato-de-espinho,NA,NA
+mam_315,Trinomys iheringi,Rodentia,Echimyidae,Euryzygomatomyinae,Trinomys,iheringi,"(Thomas, 1911)",rato-de-espinho,NA,NA
+mam_316,Trinomys mirapitanga,Rodentia,Echimyidae,Euryzygomatomyinae,Trinomys,mirapitanga,"Lara, Patton & Hingst-Zaher, 2002",rato-de-espinho,NA,NA
+mam_317,Trinomys moojeni,Rodentia,Echimyidae,Euryzygomatomyinae,Trinomys,moojeni,"(Pessôa, Oliveira & dos Reis, 1992)",rato-de-espinho,NA,NA
+mam_318,Trinomys paratus,Rodentia,Echimyidae,Euryzygomatomyinae,Trinomys,paratus,"(Moojen, 1948)",rato-de-espinho,NA,NA
+mam_319,Trinomys setosus,Rodentia,Echimyidae,Euryzygomatomyinae,Trinomys,setosus,"(Desmarest, 1817)",rato-de-espinho,NA,NA
+mam_320,Trinomys yonenagae,Rodentia,Echimyidae,Euryzygomatomyinae,Trinomys,yonenagae,"(Rocha, 1995)",rato-de-espinho,NA,NA
+mam_321,Chaetomys subspinosus,Rodentia,Erethizontidae,NA,Chaetomys,subspinosus,"(Olfers, 1818)",ouriço-preto,NA,NA
+mam_322,Coendou ichillus,Rodentia,Erethizontidae,NA,Coendou,ichillus,"Voss & da Silva, 2001",ouriço-cacheiro,NA,NA
+mam_323,Coendou melanurus,Rodentia,Erethizontidae,NA,Coendou,melanurus,"(Wagner, 1842)",ouriço-cacheiro,NA,NA
+mam_324,Coendou roosmalenorum,Rodentia,Erethizontidae,NA,Coendou,roosmalenorum,"Voss & da Silva, 2001",ouriço-cacheiro,NA,NA
+mam_325,Coendou baturitensis,Rodentia,Erethizontidae,NA,Coendou,baturitensis,"Feijó & Langguth, 2013",porco-espinho-de-baturité,NA,NA
+mam_326,Coendou longicaudatus,Rodentia,Erethizontidae,NA,Coendou,longicaudatus,"Daudin, 1802",ouriço-cacheiro,NA,NA
+mam_327,Coendou prehensilis,Rodentia,Erethizontidae,NA,Coendou,prehensilis,"(Linnaeus, 1758)",ouriço-cacheiro,NA,NA
+mam_328,Coendou bicolor,Rodentia,Erethizontidae,NA,Coendou,bicolor,"(Tschudi, 1844)",ouriço-cacheiro,NA,NA
+mam_329,Coendou insidiosus,Rodentia,Erethizontidae,NA,Coendou,insidiosus,"(Olfers, 1818)",ouriço-cacheiro,NA,NA
+mam_330,Coendou nycthemera,Rodentia,Erethizontidae,NA,Coendou,nycthemera,"(Olfers, 1818)",ouriço-cacheiro,NA,NA
+mam_331,Coendou speratus,Rodentia,Erethizontidae,NA,Coendou,speratus,"Mendes Pontes et al., 2013",cuandu-mirim,NA,NA
+mam_332,Coendou spinosus,Rodentia,Erethizontidae,NA,Coendou,spinosus,"(Cuvier, 1823)",ouriço-cacheiro,NA,NA
+mam_333,Abrawayaomys ruschii,Rodentia,Cricetidae,Sigmodontinae,Abrawayaomys,ruschii,"Cunha & Cruz, 1979",rato-do-mato,NA,NA
+mam_334,Delomys altimontanus,Rodentia,Cricetidae,Sigmodontinae,Delomys,altimontanus,"Gonçalves & Oliveira, 2014",rato-do-mato,NA,NA
+mam_335,Delomys dorsalis,Rodentia,Cricetidae,Sigmodontinae,Delomys,dorsalis,"(Hensel, 1872)",rato-do-mato,NA,NA
+mam_336,Delomys sublineatus,Rodentia,Cricetidae,Sigmodontinae,Delomys,sublineatus,"(Thomas, 1903)",rato-do-mato,NA,NA
+mam_337,Akodon azarae,Rodentia,Cricetidae,Sigmodontinae,Akodon,azarae,"(Fischer, 1829)",rato-do-chão,NA,NA
+mam_338,Akodon cursor,Rodentia,Cricetidae,Sigmodontinae,Akodon,cursor,"(Winge, 1887)",rato-da-mata,NA,NA
+mam_339,Akodon diauarum,Rodentia,Cricetidae,Sigmodontinae,Akodon,diauarum,"Brandão et al., 2022",rato-do-mato-de-diauarum,NA,NA
+mam_340,Akodon kadiweu,Rodentia,Cricetidae,Sigmodontinae,Akodon,kadiweu,"Brandão et al., 2021",rato-do-mato-kadiwéu,NA,NA
+mam_341,Akodon lindberghi,Rodentia,Cricetidae,Sigmodontinae,Akodon,lindberghi,"Hershkovitz, 1990",rato-do-chão,NA,NA
+mam_342,Akodon montensis,Rodentia,Cricetidae,Sigmodontinae,Akodon,montensis,"Thomas, 1913",rato-do-chão,NA,NA
+mam_343,Akodon mystax,Rodentia,Cricetidae,Sigmodontinae,Akodon,mystax,"Hershkovitz, 1998",rato-do-chão-do-Caparaó,NA,NA
+mam_344,Akodon paranaensis,Rodentia,Cricetidae,Sigmodontinae,Akodon,paranaensis,"Christoff et al., 2000",rato-do-chão,NA,NA
+mam_345,Akodon reigi,Rodentia,Cricetidae,Sigmodontinae,Akodon,reigi,"González, Langguth & Oliveira, 1998",rato-do-chão,NA,NA
+mam_346,Akodon sanctipaulensis,Rodentia,Cricetidae,Sigmodontinae,Akodon,sanctipaulensis,"Hershkovitz, 1990",rato-do-chão,NA,NA
+mam_347,Akodon toba,Rodentia,Cricetidae,Sigmodontinae,Akodon,toba,"Thomas, 1921",rato-do-chão,NA,NA
+mam_348,Bibimys labiosus,Rodentia,Cricetidae,Sigmodontinae,Bibimys,labiosus,"(Winge, 1887)",rato-do-chão,NA,NA
+mam_349,Blarinomys breviceps,Rodentia,Cricetidae,Sigmodontinae,Blarinomys,breviceps,"(Winge, 1887)",rato-do-mato,NA,NA
+mam_350,Brucepattersonius griserufescens,Rodentia,Cricetidae,Sigmodontinae,Brucepattersonius,griserufescens,"Hershkovitz, 1998",rato-do-chão,NA,NA
+mam_351,Brucepattersonius iheringi,Rodentia,Cricetidae,Sigmodontinae,Brucepattersonius,iheringi,"(Thomas, 1896)",rato-do-chão,NA,NA
+mam_352,Brucepattersonius nebulosus,Rodentia,Cricetidae,Sigmodontinae,Brucepattersonius,nebulosus,"Abreu-Júnior et al., 2019",rato-do-chão,NA,NA
+mam_353,Brucepattersonius soricinus,Rodentia,Cricetidae,Sigmodontinae,Brucepattersonius,soricinus,"Hershkovitz, 1998",rato-do-chão,NA,NA
+mam_354,Castoria angustidens,Rodentia,Cricetidae,Sigmodontinae,Castoria,angustidens,"Winge, 1887",rato-do-chão,NA,NA
+mam_355,Deltamys kempi,Rodentia,Cricetidae,Sigmodontinae,Deltamys,kempi,"Thomas, 1917",rato-do-mato,NA,NA
+mam_356,Deltamys araucaria,Rodentia,Cricetidae,Sigmodontinae,Deltamys,araucaria,"Quintela et al., 2017",rato-do-mato,NA,NA
+mam_357,Gyldenstolpia fronto,Rodentia,Cricetidae,Sigmodontinae,Gyldenstolpia,fronto,"(Winge, 1887)",rato-do-mato,NA,NA
+mam_358,Gyldenstolpia planaltensis,Rodentia,Cricetidae,Sigmodontinae,Gyldenstolpia,planaltensis,"(Avila-Pires, 1972)",rato-do-mato,NA,NA
+mam_359,Juscelinomys candango,Rodentia,Cricetidae,Sigmodontinae,Juscelinomys,candango,"Moojen, 1965",rato-candango,NA,NA
+mam_360,Kunsia tomentosus,Rodentia,Cricetidae,Sigmodontinae,Kunsia,tomentosus,"(Lichtenstein, 1830)",rato-do-mato,NA,NA
+mam_361,Necromys lasiurus,Rodentia,Cricetidae,Sigmodontinae,Necromys,lasiurus,"(Lund, 1841)","rato-do-mato, pixuna, caxexo",NA,NA
+mam_362,Necromys lenguarum,Rodentia,Cricetidae,Sigmodontinae,Necromys,lenguarum,"(Thomas, 1898)",desconhecido,NA,NA
+mam_363,Oxymycterus amazonicus,Rodentia,Cricetidae,Sigmodontinae,Oxymycterus,amazonicus,"Hershkovitz, 1994",rato-do-brejo,NA,NA
+mam_364,Oxymycterus caparaoe,Rodentia,Cricetidae,Sigmodontinae,Oxymycterus,caparaoe,"Hershkovitz, 1998",rato-do-brejo,NA,NA
+mam_365,Oxymycterus dasytrichus,Rodentia,Cricetidae,Sigmodontinae,Oxymycterus,dasytrichus,"(Schinz, 1821)",rato-do-brejo,NA,NA
+mam_366,Oxymycterus delator,Rodentia,Cricetidae,Sigmodontinae,Oxymycterus,delator,"Thomas, 1903",rato-do-brejo,NA,NA
+mam_367,Oxymycterus inca,Rodentia,Cricetidae,Sigmodontinae,Oxymycterus,inca,"Thomas, 1900",rato-do-brejo,NA,NA
+mam_368,Oxymycterus itapeby,Rodentia,Cricetidae,Sigmodontinae,Oxymycterus,itapeby,"Peçanha et al., 2019",rato-do-brejo,NA,NA
+mam_369,Oxymycterus nasutus,Rodentia,Cricetidae,Sigmodontinae,Oxymycterus,nasutus,"(Waterhouse, 1837)",rato-do-brejo,NA,NA
+mam_370,Oxymycterus quaestor,Rodentia,Cricetidae,Sigmodontinae,Oxymycterus,quaestor,"Thomas, 1903",rato-do-brejo,NA,NA
+mam_371,Oxymycterus rufus,Rodentia,Cricetidae,Sigmodontinae,Oxymycterus,rufus,"(G. Fischer, 1814)",rato-do-brejo,NA,NA
+mam_372,Scapteromys aquaticus,Rodentia,Cricetidae,Sigmodontinae,Scapteromys,aquaticus,"Thomas, 1920",rato-d'água,NA,NA
+mam_373,Scapteromys meridionalis,Rodentia,Cricetidae,Sigmodontinae,Scapteromys,meridionalis,"Quintela et al., 2014",rato-d'água,NA,NA
+mam_374,Scapteromys tumidus,Rodentia,Cricetidae,Sigmodontinae,Scapteromys,tumidus,"(Waterhouse, 1837)",rato-d'água,NA,NA
+mam_375,Thalpomys cerradensis,Rodentia,Cricetidae,Sigmodontinae,Thalpomys,cerradensis,"Hershkovitz, 1990",rato-do-chão,NA,NA
+mam_376,Thalpomys lasiotis,Rodentia,Cricetidae,Sigmodontinae,Thalpomys,lasiotis,"Thomas, 1916",rato-do-chão,NA,NA
+mam_377,Thaptomys nigrita,Rodentia,Cricetidae,Sigmodontinae,Thaptomys,nigrita,"(Lichtenstein, 1829)",rato-do-chão,NA,NA
+mam_378,Neusticomys ferreirai,Rodentia,Cricetidae,Sigmodontinae,Neusticomys,ferreirai,"Percequillo, Carmignotto & Silva, 2005",rato-d'água,NA,NA
+mam_379,Neusticomys oyapocki,Rodentia,Cricetidae,Sigmodontinae,Neusticomys,oyapocki,"(Dubost & Petter, 1978)",rato-d'água,NA,NA
+mam_380,Neusticomys peruviensis,Rodentia,Cricetidae,Sigmodontinae,Neusticomys,peruviensis,"(Musser & Gardner, 1974)",rato-d'água,NA,NA
+mam_381,Cerradomys akroai,Rodentia,Cricetidae,Sigmodontinae,Cerradomys,akroai,"Bovincino, Casado & Weksler, 2014",rato-do-chão,NA,NA
+mam_382,Cerradomys goytaca,Rodentia,Cricetidae,Sigmodontinae,Cerradomys,goytaca,"Tavares, Pessôa & Gonçalves, 2011",rato-goytacá,NA,NA
+mam_383,Cerradomys langguthi,Rodentia,Cricetidae,Sigmodontinae,Cerradomys,langguthi,"Percequillo, Hingst-Zaher & Bonvicino, 2008",rato-do-chão,NA,NA
+mam_384,Cerradomys maracajuensis,Rodentia,Cricetidae,Sigmodontinae,Cerradomys,maracajuensis,"(Langguth & Bonvicino, 2002)",rato-do-mato,NA,NA
+mam_385,Cerradomys marinhus,Rodentia,Cricetidae,Sigmodontinae,Cerradomys,marinhus,"(Bonvicino, 2003)",rato-do-mato,NA,NA
+mam_386,Cerradomys scotti,Rodentia,Cricetidae,Sigmodontinae,Cerradomys,scotti,"(Langguth & Bonvicino, 2002)",rato-do-mato,NA,NA
+mam_387,Cerradomys subflavus,Rodentia,Cricetidae,Sigmodontinae,Cerradomys,subflavus,"(Wagner, 1842)",rato-do-mato,NA,NA
+mam_388,Cerradomys vivoi,Rodentia,Cricetidae,Sigmodontinae,Cerradomys,vivoi,"Percequillo, Hingst-Zaher & Bonvicino, 2008",rato-do-mato,NA,NA
+mam_389,Drymoreomys albimaculatus,Rodentia,Cricetidae,Sigmodontinae,Drymoreomys,albimaculatus,"Percequillo, Weksler & Costa, 2011",rato-do-mato,NA,NA
+mam_390,Euryoryzomys emmonsae,Rodentia,Cricetidae,Sigmodontinae,Euryoryzomys,emmonsae,"(Musser et al., 1998)",rato-do-mato,NA,NA
+mam_391,Euryoryzomys lamia,Rodentia,Cricetidae,Sigmodontinae,Euryoryzomys,lamia,"(Thomas, 1901)",rato-do-mato,NA,NA
+mam_392,Euryoryzomys macconnelli,Rodentia,Cricetidae,Sigmodontinae,Euryoryzomys,macconnelli,"(Thomas, 1910)",rato-do-mato,NA,NA
+mam_393,Euryoryzomys nitidus,Rodentia,Cricetidae,Sigmodontinae,Euryoryzomys,nitidus,"(Thomas, 1884)",rato-do-mato,NA,NA
+mam_394,Euryoryzomys russatus,Rodentia,Cricetidae,Sigmodontinae,Euryoryzomys,russatus,"(Wagner, 1848)",rato-do-mato,NA,NA
+mam_395,Holochilus brasiliensis,Rodentia,Cricetidae,Sigmodontinae,Holochilus,brasiliensis,"(Desmarest, 1819)",rato-d’água,NA,NA
+mam_396,Holochilus chacarius,Rodentia,Cricetidae,Sigmodontinae,Holochilus,chacarius,"Thomas, 1906",rato-d’água,NA,NA
+mam_397,Holochilus nanus,Rodentia,Cricetidae,Sigmodontinae,Holochilus,nanus,Thomas 1897,rato-d’água,NA,NA
+mam_398,Holochilus oxe,Rodentia,Cricetidae,Sigmodontinae,Holochilus,oxe,"Prado, Knowles & Percequillo, 2021","rato-d’água, rato-do-brejo-do-nordeste-brasileiro",NA,NA
+mam_399,Holochilus sciureus,Rodentia,Cricetidae,Sigmodontinae,Holochilus,sciureus,"Wagner, 1842",rato-d’água,NA,NA
+mam_400,Hylaeamys megacephalus,Rodentia,Cricetidae,Sigmodontinae,Hylaeamys,megacephalus,"(Fischer, 1814)",rato-do-mato,NA,NA
+mam_401,Hylaeamys oniscus,Rodentia,Cricetidae,Sigmodontinae,Hylaeamys,oniscus,"(Thomas, 1904)",rato-do-mato,NA,NA
+mam_402,Hylaeamys perenensis,Rodentia,Cricetidae,Sigmodontinae,Hylaeamys,perenensis,"(Allen, 1901)",rato-do-mato,NA,NA
+mam_403,Hylaeamys seuanezi,Rodentia,Cricetidae,Sigmodontinae,Hylaeamys,seuanezi,"(Weksler, Geise & Cerqueira, 1999)",rato-do-mato,NA,NA
+mam_404,Hylaeamys yunganus,Rodentia,Cricetidae,Sigmodontinae,Hylaeamys,yunganus,"(Thomas, 1902)",rato-do-mato,NA,NA
+mam_405,Lundomys molitor,Rodentia,Cricetidae,Sigmodontinae,Lundomys,molitor,"(Winge, 1887)",rato-do-mato,NA,NA
+mam_406,Microakodontomys transitorius,Rodentia,Cricetidae,Sigmodontinae,Microakodontomys,transitorius,"Hershkovitz, 1993",rato-do-mato,NA,NA
+mam_407,Neacomys aletheia,Rodentia,Cricetidae,Sigmodontinae,Neacomys,aletheia,"Semedo, da Silva, Carmignotto & Rossi, 2021",rato-espinhoso,NA,NA
+mam_408,Neacomys amoenus,Rodentia,Cricetidae,Sigmodontinae,Neacomys,amoenus,"Thomas, 1903",rato-espinhoso,NA,NA
+mam_409,Neacomys dubosti,Rodentia,Cricetidae,Sigmodontinae,Neacomys,dubosti,"Voss, Lunde & Simmons, 2001",rato-espinhoso,NA,NA
+mam_410,Neacomys elieceri,Rodentia,Cricetidae,Sigmodontinae,Neacomys,elieceri,"Semedo, da Silva, Carmignotto & Rossi, 2021",rato-espinhoso,NA,NA
+mam_411,Neacomys guianae,Rodentia,Cricetidae,Sigmodontinae,Neacomys,guianae,"Thomas, 1905",rato-espinhoso,NA,NA
+mam_412,Neacomys jau,Rodentia,Cricetidae,Sigmodontinae,Neacomys,jau,"Semedo, da Silva, Carmignotto & Rossi, 2021",rato-espinhoso,NA,NA
+mam_413,Neacomys marajoara ,Rodentia,Cricetidae,Sigmodontinae,Neacomys,marajoara ,NA,rato-espinhoso,NA,NA
+mam_414,Neacomys minutus,Rodentia,Cricetidae,Sigmodontinae,Neacomys,minutus,"Patton, da Silva & Malcolm, 2000",rato-espinhoso,NA,NA
+mam_415,Neacomys musseri,Rodentia,Cricetidae,Sigmodontinae,Neacomys,musseri,"Patton, da Silva & Malcolm, 2000",rato-espinhoso,NA,NA
+mam_416,Neacomys oliveirai,Rodentia,Cricetidae,Sigmodontinae,Neacomys,oliveirai,"Caccavo & Weksler, 2021",rato-espinhoso,NA,NA
+mam_417,Neacomys paracou,Rodentia,Cricetidae,Sigmodontinae,Neacomys,paracou,"Voss, Lunde & Simmons, 2001",rato-espinhoso,NA,NA
+mam_418,Neacomys vossi,Rodentia,Cricetidae,Sigmodontinae,Neacomys,vossi,"Semedo et al., 2020",rato-espinhoso,NA,NA
+mam_419,Neacomys xingu,Rodentia,Cricetidae,Sigmodontinae,Neacomys,xingu,"Semedo et al., 2020",rato-espinhoso,NA,NA
+mam_420,Nectomys apicalis,Rodentia,Cricetidae,Sigmodontinae,Nectomys,apicalis,"Peters, 1861",rato-d’água,NA,NA
+mam_421,Nectomys rattus,Rodentia,Cricetidae,Sigmodontinae,Nectomys,rattus,"(Pelzeln, 1883)",rato-d’água,NA,NA
+mam_422,Nectomys squamipes,Rodentia,Cricetidae,Sigmodontinae,Nectomys,squamipes,"(Brants, 1827)",rato-d’água,NA,NA
+mam_423,Oecomys auyantepui,Rodentia,Cricetidae,Sigmodontinae,Oecomys,auyantepui,"Tate, 1939",rato-da-árvore,NA,NA
+mam_424,Oecomys bicolor,Rodentia,Cricetidae,Sigmodontinae,Oecomys,bicolor,"(Tomes, 1860)",rato-da-árvore,NA,NA
+mam_425,Oecomys catherinae,Rodentia,Cricetidae,Sigmodontinae,Oecomys,catherinae,"Thomas, 1909",rato-da-árvore,NA,NA
+mam_426,Oecomys cleberi,Rodentia,Cricetidae,Sigmodontinae,Oecomys,cleberi,"Locks, 1981",rato-da-árvore,NA,NA
+mam_427,Oecomys concolor,Rodentia,Cricetidae,Sigmodontinae,Oecomys,concolor,"(Wagner, 1845)",rato-da-árvore,NA,NA
+mam_428,Oecomys franciscorum,Rodentia,Cricetidae,Sigmodontinae,Oecomys,franciscorum,"Pardiñas et al., 2016",rato-da-árvore,NA,NA
+mam_429,Oecomys mamorae,Rodentia,Cricetidae,Sigmodontinae,Oecomys,mamorae,"(Thomas, 1906)",rato-da-árvore,NA,NA
+mam_430,Oecomys matogrossensis,Rodentia,Cricetidae,Sigmodontinae,Oecomys,matogrossensis,"Saldanha & Rossi, 2021",rato-da-árvore,NA,NA
+mam_431,Oecomys paricola,Rodentia,Cricetidae,Sigmodontinae,Oecomys,paricola,"(Thomas, 1904)",rato-da-árvore,NA,NA
+mam_432,Oecomys rex,Rodentia,Cricetidae,Sigmodontinae,Oecomys,rex,"Thomas, 1910",rato-da-árvore,NA,NA
+mam_433,Oecomys roberti,Rodentia,Cricetidae,Sigmodontinae,Oecomys,roberti,"(Thomas, 1904)",rato-da-árvore,NA,NA
+mam_434,Oecomys rutilus,Rodentia,Cricetidae,Sigmodontinae,Oecomys,rutilus,"Anthony, 1921",rato-da-árvore,NA,NA
+mam_435,Oecomys superans,Rodentia,Cricetidae,Sigmodontinae,Oecomys,superans,"Thomas, 1911",rato-da-árvore,NA,NA
+mam_436,Oecomys tapajinus,Rodentia,Cricetidae,Sigmodontinae,Oecomys,tapajinus,Thomas 1909,rato-da-árvore,NA,NA
+mam_437,Oecomys trinitatis,Rodentia,Cricetidae,Sigmodontinae,Oecomys,trinitatis,"(Allen & Chapman, 1893)",rato-da-árvore,NA,NA
+mam_438,Oligoryzomys chacoensis,Rodentia,Cricetidae,Sigmodontinae,Oligoryzomys,chacoensis,"Myers & Carleton, 1981",rato-do-mato,NA,NA
+mam_439,Oligoryzomys flavescens,Rodentia,Cricetidae,Sigmodontinae,Oligoryzomys,flavescens,"(Waterhouse, 1837)",rato-do-mato,NA,NA
+mam_440,Oligoryzomys mattogrossae,Rodentia,Cricetidae,Sigmodontinae,Oligoryzomys,mattogrossae,"(Allen, 1916)",rato-do-mato,NA,NA
+mam_441,Oligoryzomys messorius,Rodentia,Cricetidae,Sigmodontinae,Oligoryzomys,messorius,"(Thomas, 1901)",rato-do-mato,NA,NA
+mam_442,Oligoryzomys microtis,Rodentia,Cricetidae,Sigmodontinae,Oligoryzomys,microtis,"(Allen, 1916)",rato-do-mato,NA,NA
+mam_443,Oligoryzomys moojeni,Rodentia,Cricetidae,Sigmodontinae,Oligoryzomys,moojeni,"Weksler & Bonvicino, 2005",rato-do-mato,NA,NA
+mam_444,Oligoryzomys nigripes,Rodentia,Cricetidae,Sigmodontinae,Oligoryzomys,nigripes,"(Olfers, 1818)",rato-do-mato,NA,NA
+mam_445,Oligoryzomys rupestris,Rodentia,Cricetidae,Sigmodontinae,Oligoryzomys,rupestris,"Weksler & Bonvicino, 2005",rato-do-mato,NA,NA
+mam_446,Oligoryzomys stramineus,Rodentia,Cricetidae,Sigmodontinae,Oligoryzomys,stramineus,"Bonvicino & Weksler, 1998",rato-do-mato,NA,NA
+mam_447,Oligoryzomys utiaritensis,Rodentia,Cricetidae,Sigmodontinae,Oligoryzomys,utiaritensis,"Allen, 1916",rato-do-mato,NA,NA
+mam_448,Pseudoryzomys simplex,Rodentia,Cricetidae,Sigmodontinae,Pseudoryzomys,simplex,"(Winge, 1887)",rato-do-mato,NA,NA
+mam_449,Scolomys ucayalensis,Rodentia,Cricetidae,Sigmodontinae,Scolomys,ucayalensis,"Pacheco, 1991",rato-do-mato,NA,NA
+mam_450,Sooretamys angouya,Rodentia,Cricetidae,Sigmodontinae,Sooretamys,angouya,"(Fischer, 1814)",rato-do-mato,NA,NA
+mam_451,Zygodontomys brevicauda,Rodentia,Cricetidae,Sigmodontinae,Zygodontomys,brevicauda,"(Allen & Chapman, 1893)",rato-do-mato,NA,NA
+mam_452,Calassomys apicalis,Rodentia,Cricetidae,Sigmodontinae,Calassomys,apicalis,"Pardiñas et al., 2014",desconhecido,NA,NA
+mam_453,Calomys callidus,Rodentia,Cricetidae,Sigmodontinae,Calomys,callidus,"(Thomas, 1916)",rato-do-chão,NA,NA
+mam_454,Calomys callosus,Rodentia,Cricetidae,Sigmodontinae,Calomys,callosus,"(Rengger, 1830)",rato-do-chão,NA,NA
+mam_455,Calomys cerqueirai,Rodentia,Cricetidae,Sigmodontinae,Calomys,cerqueirai,"Bonvicino, Oliveira & Gentile, 2010",rato-do-chão,NA,NA
+mam_456,Calomys expulsus,Rodentia,Cricetidae,Sigmodontinae,Calomys,expulsus,"(Lund, 1840)",rato-do-chão,NA,NA
+mam_457,Calomys hummelincki,Rodentia,Cricetidae,Sigmodontinae,Calomys,hummelincki,"Husson, 1960",rato-do-chão,NA,NA
+mam_458,Calomys laucha,Rodentia,Cricetidae,Sigmodontinae,Calomys,laucha,"(Fischer, 1814)",rato-do-chão,NA,NA
+mam_459,Calomys mattevii,Rodentia,Cricetidae,Sigmodontinae,Calomys,mattevii,"Gurgel-Filho, Feijó & Langguth, 2015",rato-do-chão,NA,NA
+mam_460,Calomys tener,Rodentia,Cricetidae,Sigmodontinae,Calomys,tener,"(Winge, 1887)",rato-do-chão,NA,NA
+mam_461,Calomys tocantinsi,Rodentia,Cricetidae,Sigmodontinae,Calomys,tocantinsi,"Bonvicino, Lima & Almeida, 2003",rato-do-chão,NA,NA
+mam_462,Reithrodon typicus,Rodentia,Cricetidae,Sigmodontinae,Reithrodon,typicus,"Waterhouse, 1837",rato-do-mato,NA,NA
+mam_463,Sigmodon alstoni,Rodentia,Cricetidae,Sigmodontinae,Sigmodon,alstoni,"(Thomas, 1881)",rato-do-mato,NA,NA
+mam_464,Rhagomys longilingua,Rodentia,Cricetidae,Sigmodontinae,Rhagomys,longilingua,"Luna & Patterson, 2003",desconhecido,NA,NA
+mam_465,Rhagomys rufescens,Rodentia,Cricetidae,Sigmodontinae,Rhagomys,rufescens,"(Thomas, 1886)","rato-vermelho, rato-do-mato-laranja, rato-do-mato-vermelho",NA,NA
+mam_466,Rhipidomys baturiteensis,Rodentia,Cricetidae,Sigmodontinae,Rhipidomys,baturiteensis,"Tribe, 2005",rato-da-árvore,NA,NA
+mam_467,Rhipidomys cariri,Rodentia,Cricetidae,Sigmodontinae,Rhipidomys,cariri,"Tribe, 2005",rato-da-árvore,NA,NA
+mam_468,Rhipidomys cearanus,Rodentia,Cricetidae,Sigmodontinae,Rhipidomys,cearanus,"Thomas, 1910",rato-da-árvore,NA,NA
+mam_469,Rhipidomys emiliae,Rodentia,Cricetidae,Sigmodontinae,Rhipidomys,emiliae,"(Allen, 1916)",rato-da-árvore,NA,NA
+mam_470,Rhipidomys gardneri,Rodentia,Cricetidae,Sigmodontinae,Rhipidomys,gardneri,"Patton, da Silva & Malcolm, 2000",rato-da-árvore,NA,NA
+mam_471,Rhipidomys ipukensis,Rodentia,Cricetidae,Sigmodontinae,Rhipidomys,ipukensis,"Rocha, Costa & Costa, 2011",rato-da-árvore,NA,NA
+mam_472,Rhipidomys itoan,Rodentia,Cricetidae,Sigmodontinae,Rhipidomys,itoan,"B. Costa et al., 2011",rato-da-árvore,NA,NA
+mam_473,Rhipidomys leucodactylus,Rodentia,Cricetidae,Sigmodontinae,Rhipidomys,leucodactylus,"(Tschudi, 1845)",rato-da-árvore,NA,NA
+mam_474,Rhipidomys macconnelli,Rodentia,Cricetidae,Sigmodontinae,Rhipidomys,macconnelli,"De Winton, 1900",rato-da-árvore,NA,NA
+mam_475,Rhipidomys macrurus,Rodentia,Cricetidae,Sigmodontinae,Rhipidomys,macrurus,"(Gervais, 1855)",rato-da-árvore,NA,NA
+mam_476,Rhipidomys mastacalis,Rodentia,Cricetidae,Sigmodontinae,Rhipidomys,mastacalis,"(Lund, 1840)",rato-da-árvore,NA,NA
+mam_477,Rhipidomys nitela,Rodentia,Cricetidae,Sigmodontinae,Rhipidomys,nitela,"Thomas, 1901",rato-da-árvore,NA,NA
+mam_478,Rhipidomys tribei,Rodentia,Cricetidae,Sigmodontinae,Rhipidomys,tribei,"B. Costa et al., 2011",rato-da-árvore,NA,NA
+mam_479,Rhipidomys wetzeli,Rodentia,Cricetidae,Sigmodontinae,Rhipidomys,wetzeli,"Gardner, 1990",rato-da-árvore,NA,NA
+mam_480,Juliomys ossitenuis,Rodentia,Cricetidae,Sigmodontinae,Juliomys,ossitenuis,"L. Costa et al., 2007",rato-do-mato,NA,NA
+mam_481,Juliomys pictipes,Rodentia,Cricetidae,Sigmodontinae,Juliomys,pictipes,"(Osgood, 1933)",rato-do-mato,NA,NA
+mam_482,Juliomys rimofrons,Rodentia,Cricetidae,Sigmodontinae,Juliomys,rimofrons,"Oliveira & Bonvicino, 2002",rato-do-mato,NA,NA
+mam_483,Juliomys ximenezi,Rodentia,Cricetidae,Sigmodontinae,Juliomys,ximenezi,"Christoff et al., 2016",rato-do-mato,NA,NA
+mam_484,Phaenomys ferrugineus,Rodentia,Cricetidae,Sigmodontinae,Phaenomys,ferrugineus,"(Thomas, 1894)",rato-do-mato-ferrugíneo,NA,NA
+mam_485,Wiedomys cerradensis,Rodentia,Cricetidae,Sigmodontinae,Wiedomys,cerradensis,"Gonçalves, Almeida & Bonvicino, 2005","rato-do-mato, rato-da-caatinga",NA,NA
+mam_486,Wiedomys pyrrhorhinos,Rodentia,Cricetidae,Sigmodontinae,Wiedomys,pyrrhorhinos,"(Wied-Neuwied, 1821)","rato-de-fava, rato-palhaço",NA,NA
+mam_487,Wilfredomys oenax,Rodentia,Cricetidae,Sigmodontinae,Wilfredomys,oenax,"(Thomas, 1928)",rato-do-mato,NA,NA
+mam_488,Sciurillus pusillus,Rodentia,Sciuridae,Sciurillinae,Sciurillus,pusillus,"(É. Geoffroy Saint-Hilaire, 1803)",quatipuruzinho,NA,NA
+mam_489,Guerlinguetus aestuans,Rodentia,Sciuridae,Sciurinae,Guerlinguetus,aestuans,"(Linnaeus, 1766)","caxinguelê, serelepe, esquilo, quatipuru-pequeno",NA,NA
+mam_490,Guerlinguetus brasiliensis,Rodentia,Sciuridae,Sciurinae,Guerlinguetus,brasiliensis,"(Gmelin, 1788)","caxinguelê, serelepe, esquilo, quatipuru-pequeno",NA,NA
+mam_491,Hadrosciurus ignitus,Rodentia,Sciuridae,Sciurinae,Hadrosciurus,ignitus,"(Gray, 1867)",quatipuru,NA,NA
+mam_492,Hadrosciurus igniventris,Rodentia,Sciuridae,Sciurinae,Hadrosciurus,igniventris,"(Wagner, 1842)",quatipuru,NA,NA
+mam_493,Hadrosciurus spadiceus,Rodentia,Sciuridae,Sciurinae,Hadrosciurus,spadiceus,"(Olfers, 1818)",quatipuru,NA,NA
+mam_494,Hadrosciurus pyrrhinus,Rodentia,Sciuridae,Sciurinae,Hadrosciurus,pyrrhinus,"(Thomas, 1898)",quatipuru,NA,NA
+mam_495,Microsciurus flaviventer,Rodentia,Sciuridae,Sciurinae,Microsciurus,flaviventer,"(Gray, 1867)",quatipuruzinho-bigodeiro,NA,NA
+mam_496,Centronycteris maximiliani,Chiroptera,Emballonuridae,Emballonurinae,Centronycteris,maximiliani,"(Fischer, 1829)",morcego,NA,NA
+mam_497,Cormura brevirostris,Chiroptera,Emballonuridae,Emballonurinae,Cormura,brevirostris,"(Wagner, 1843)",morcego,NA,NA
+mam_498,Cyttarops alecto,Chiroptera,Emballonuridae,Emballonurinae,Cyttarops,alecto,"Thomas, 1913",morcego,NA,NA
+mam_499,Diclidurus albus,Chiroptera,Emballonuridae,Emballonurinae,Diclidurus,albus,"Wied-Neuwied, 1820",morcego-fantasma,NA,NA
+mam_500,Diclidurus ingens,Chiroptera,Emballonuridae,Emballonurinae,Diclidurus,ingens,"Hernández-Camacho, 1955",morcego-fantasma,NA,NA
+mam_501,Diclidurus isabella,Chiroptera,Emballonuridae,Emballonurinae,Diclidurus,isabella,"(Thomas, 1920)",morcego,NA,NA
+mam_502,Diclidurus scutatus,Chiroptera,Emballonuridae,Emballonurinae,Diclidurus,scutatus,"Peters, 1869",morcego-fantasma,NA,NA
+mam_503,Peropteryx kappleri,Chiroptera,Emballonuridae,Emballonurinae,Peropteryx,kappleri,"Peters, 1867",morcego,NA,NA
+mam_504,Peropteryx leucoptera,Chiroptera,Emballonuridae,Emballonurinae,Peropteryx,leucoptera,"Peters, 1867",morcego,NA,NA
+mam_505,Peropteryx macrotis,Chiroptera,Emballonuridae,Emballonurinae,Peropteryx,macrotis,"(Wagner, 1843)",morcego,NA,NA
+mam_506,Peropteryx pallidoptera,Chiroptera,Emballonuridae,Emballonurinae,Peropteryx,pallidoptera,"Lim et al., 2010",morcego,NA,NA
+mam_507,Peropteryx trinitatis,Chiroptera,Emballonuridae,Emballonurinae,Peropteryx,trinitatis,"Miller, 1899",morcego,NA,NA
+mam_508,Rhynchonycteris naso,Chiroptera,Emballonuridae,Emballonurinae,Rhynchonycteris,naso,"(Wied-Neuwied, 1820)",morcego-de-tromba,NA,NA
+mam_509,Saccopteryx bilineata,Chiroptera,Emballonuridae,Emballonurinae,Saccopteryx,bilineata,"(Temminck, 1838)",morcego,NA,NA
+mam_510,Saccopteryx canescens,Chiroptera,Emballonuridae,Emballonurinae,Saccopteryx,canescens,"Thomas, 1901",morcego,NA,NA
+mam_511,Saccopteryx gymnura,Chiroptera,Emballonuridae,Emballonurinae,Saccopteryx,gymnura,"Thomas, 1901",morcego,NA,NA
+mam_512,Saccopteryx leptura,Chiroptera,Emballonuridae,Emballonurinae,Saccopteryx,leptura,"(Schreber, 1774)",morcego,NA,NA
+mam_513,Furipterus horrens,Chiroptera,Furipteridae,NA,Furipterus,horrens,"(Cuvier, 1828)",morcego-borboleta,NA,NA
+mam_514,Cynomops abrasus,Chiroptera,Molossidae,Molossinae,Cynomops,abrasus,"(Temminck, 1826)",morcego,NA,NA
+mam_515,Cynomops greenhalli,Chiroptera,Molossidae,Molossinae,Cynomops,greenhalli,"Goodwin, 1958",morcego,NA,NA
+mam_516,Cynomops mastivus,Chiroptera,Molossidae,Molossinae,Cynomops,mastivus,"(Thomas, 1911)",morcego,NA,NA
+mam_517,Cynomops milleri,Chiroptera,Molossidae,Molossinae,Cynomops,milleri,"(Osgood, 1914)",morcego,NA,NA
+mam_518,Cynomops planirostris,Chiroptera,Molossidae,Molossinae,Cynomops,planirostris,"(Peters, 1865)",morcego,NA,NA
+mam_519,Eumops auripendulus,Chiroptera,Molossidae,Molossinae,Eumops,auripendulus,"(Shaw, 1800)",morcego,NA,NA
+mam_520,Eumops bonariensis,Chiroptera,Molossidae,Molossinae,Eumops,bonariensis,"(Peters, 1874)",morcego,NA,NA
+mam_521,Eumops chimaera,Chiroptera,Molossidae,Molossinae,Eumops,chimaera,"Gregorin et al., 2016",morcego,NA,NA
+mam_522,Eumops dabbenei,Chiroptera,Molossidae,Molossinae,Eumops,dabbenei,"Thomas, 1914",morcego,NA,NA
+mam_523,Eumops delticus,Chiroptera,Molossidae,Molossinae,Eumops,delticus,"Thomas, 1923",morcego,NA,NA
+mam_524,Eumops glaucinus,Chiroptera,Molossidae,Molossinae,Eumops,glaucinus,"(Wagner, 1843)",morcego,NA,NA
+mam_525,Eumops hansae,Chiroptera,Molossidae,Molossinae,Eumops,hansae,"Sanborn, 1932",morcego,NA,NA
+mam_526,Eumops maurus,Chiroptera,Molossidae,Molossinae,Eumops,maurus,"(Thomas, 1901)",morcego,NA,NA
+mam_527,Eumops patagonicus,Chiroptera,Molossidae,Molossinae,Eumops,patagonicus,"Thomas, 1924",morcego,NA,NA
+mam_528,Eumops perotis,Chiroptera,Molossidae,Molossinae,Eumops,perotis,"(Schinz, 1821)",morcego,NA,NA
+mam_529,Eumops trumbulli,Chiroptera,Molossidae,Molossinae,Eumops,trumbulli,"(Thomas, 1901)",morcego,NA,NA
+mam_530,Molossops neglectus,Chiroptera,Molossidae,Molossinae,Molossops,neglectus,"Williams & Genoways, 1980",morcego,NA,NA
+mam_531,Molossops temminckii,Chiroptera,Molossidae,Molossinae,Molossops,temminckii,"(Burmeister, 1854)",morcego,NA,NA
+mam_532,Molossus aztecus,Chiroptera,Molossidae,Molossinae,Molossus,aztecus,"Saussure, 1860",morcego,NA,NA
+mam_533,Molossus coibensis,Chiroptera,Molossidae,Molossinae,Molossus,coibensis,"Allen, 1904",morcego,NA,NA
+mam_534,Molossus currentium,Chiroptera,Molossidae,Molossinae,Molossus,currentium,"Thomas, 1901",morcego,NA,NA
+mam_535,Molossus fluminensis,Chiroptera,Molossidae,Molossinae,Molossus,fluminensis,"Lataste, 1891",morcego,NA,NA
+mam_536,Molossus molossus,Chiroptera,Molossidae,Molossinae,Molossus,molossus,"(Pallas, 1766)",morcego-de-cauda-livre,NA,NA
+mam_537,Molossus pretiosus,Chiroptera,Molossidae,Molossinae,Molossus,pretiosus,"Miller, 1902",morcego,NA,NA
+mam_538,Molossus rufus,Chiroptera,Molossidae,Molossinae,Molossus,rufus,"É. Geoffroy St.-Hilaire, 1805",morcego-cauda-de-rato-maior,NA,NA
+mam_539,Neoplatymops mattogrossensis,Chiroptera,Molossidae,Molossinae,Neoplatymops,mattogrossensis,"(Vieira, 1942)",morcego,NA,NA
+mam_540,Nyctinomops aurispinosus,Chiroptera,Molossidae,Molossinae,Nyctinomops,aurispinosus,"(Peale, 1848)",morcego,NA,NA
+mam_541,Nyctinomops laticaudatus,Chiroptera,Molossidae,Molossinae,Nyctinomops,laticaudatus,"(É. Geoffroy St.-Hilaire, 1805)",morcego,NA,NA
+mam_542,Nyctinomops macrotis,Chiroptera,Molossidae,Molossinae,Nyctinomops,macrotis,"(Gray, 1840)",morcego,NA,NA
+mam_543,Promops centralis,Chiroptera,Molossidae,Molossinae,Promops,centralis,"Thomas, 1915",morcego,NA,NA
+mam_544,Promops nasutus,Chiroptera,Molossidae,Molossinae,Promops,nasutus,"(Spix, 1823)",morcego,NA,NA
+mam_545,Tadarida brasiliensis,Chiroptera,Molossidae,Molossinae,Tadarida,brasiliensis,"(I. Geoffroy St.-Hilaire, 1824)",morcego,NA,NA
+mam_546,Pteronotus alitonus,Chiroptera,Mormoopidae,NA,Pteronotus,alitonus,"A. Pavan, Bobrowiec & Percequillo, 2018",morcego,NA,NA
+mam_547,Pteronotus gymnonotus,Chiroptera,Mormoopidae,NA,Pteronotus,gymnonotus,"(Wagner, 1843)",morcego,NA,NA
+mam_548,Pteronotus personatus,Chiroptera,Mormoopidae,NA,Pteronotus,personatus,"(Wagner, 1843)",morcego,NA,NA
+mam_549,Pteronotus rubiginosus,Chiroptera,Mormoopidae,NA,Pteronotus,rubiginosus,"(Wagner, 1843)",morcego,NA,NA
+mam_550,Natalus macrourus,Chiroptera,Natalidae,NA,Natalus,macrourus,"(Gervais, 1856)",morcego,NA,NA
+mam_551,Noctilio albiventris,Chiroptera,Noctilionidae,NA,Noctilio,albiventris,"Desmarest, 1818",morcego-pescador,NA,NA
+mam_552,Noctilio leporinus,Chiroptera,Noctilionidae,NA,Noctilio,leporinus,"(Linnaeus, 1758)",morcego-pescador,NA,NA
+mam_553,Carollia benkeithi,Chiroptera,Phyllostomidae,Carolliinae,Carollia,benkeithi,"Solari & Baker, 2006",morcego,NA,NA
+mam_554,Carollia brevicauda,Chiroptera,Phyllostomidae,Carolliinae,Carollia,brevicauda,"(Schinz, 1821)",morcego,NA,NA
+mam_555,Carollia perspicillata,Chiroptera,Phyllostomidae,Carolliinae,Carollia,perspicillata,"(Linnaeus, 1758)",morcego,NA,NA
+mam_556,Rhinophylla fischerae,Chiroptera,Phyllostomidae,Rhinophyllinae,Rhinophylla,fischerae,"Carter, 1966",morcego,NA,NA
+mam_557,Rhinophylla pumilio,Chiroptera,Phyllostomidae,Rhinophyllinae,Rhinophylla,pumilio,"Peters, 1865",morcego,NA,NA
+mam_558,Desmodus rotundus,Chiroptera,Phyllostomidae,Desmodontinae,Desmodus,rotundus,"(É. Geoffroy St.-Hilaire, 1810)",morcego-vampiro-comum,NA,NA
+mam_559,Diaemus youngii,Chiroptera,Phyllostomidae,Desmodontinae,Diaemus,youngii,"(Jentink, 1893)",morcego-vampiro,NA,NA
+mam_560,Diphylla ecaudata,Chiroptera,Phyllostomidae,Desmodontinae,Diphylla,ecaudata,"Spix, 1823",morcego-vampiro,NA,NA
+mam_561,Anoura caudifer,Chiroptera,Phyllostomidae,Glossophaginae,Anoura,caudifer,"(É. Geoffroy St.-Hilaire, 1818)",morcego-beija-flor,NA,NA
+mam_562,Anoura geoffroyi,Chiroptera,Phyllostomidae,Glossophaginae,Anoura,geoffroyi,"Gray, 1838",morcego-beija-flor,NA,NA
+mam_563,Choeroniscus godmani,Chiroptera,Phyllostomidae,Glossophaginae,Choeroniscus,godmani,"(Thomas, 1903)",morcego-beija-flor,NA,NA
+mam_564,Choeroniscus minor,Chiroptera,Phyllostomidae,Glossophaginae,Choeroniscus,minor,"(Peters, 1868)",morcego-beija-flor,NA,NA
+mam_565,Dryadonycteris capixaba,Chiroptera,Phyllostomidae,Glossophaginae,Dryadonycteris,capixaba,"Nogueira et al., 2012",morcego-beija-flor,NA,NA
+mam_566,Lichonycteris degener,Chiroptera,Phyllostomidae,Glossophaginae,Lichonycteris,degener,"Miller, 1931",morcego-beija-flor,NA,NA
+mam_567,Scleronycteris ega,Chiroptera,Phyllostomidae,Glossophaginae,Scleronycteris,ega,"Thomas, 1912",morcego-beija-flor,NA,NA
+mam_568,Glossophaga commissarisi,Chiroptera,Phyllostomidae,Glossophaginae,Glossophaga,commissarisi,"Gardner, 1962",morcego-beija-flor,NA,NA
+mam_569,Glossophaga longirostris,Chiroptera,Phyllostomidae,Glossophaginae,Glossophaga,longirostris,"Miller, 1898",morcego-beija-flor,NA,NA
+mam_570,Glossophaga soricina,Chiroptera,Phyllostomidae,Glossophaginae,Glossophaga,soricina,"(Pallas, 1766)",morcego-beija-flor,NA,NA
+mam_571,Hsunycteris thomasi,Chiroptera,Phyllostomidae,Lonchophyllinae,Hsunycteris,thomasi,"(Allen, 1904)",morcego-beija-flor,NA,NA
+mam_572,Hsunycteris pattoni,Chiroptera,Phyllostomidae,Lonchophyllinae,Hsunycteris,pattoni,"(Woodman & Timm, 2006)",morcego-beija-flor,NA,NA
+mam_573,Lionycteris spurrelli,Chiroptera,Phyllostomidae,Lonchophyllinae,Lionycteris,spurrelli,"Thomas, 1913",morcego-beija-flor,NA,NA
+mam_574,Lonchophylla bokermanni,Chiroptera,Phyllostomidae,Lonchophyllinae,Lonchophylla,bokermanni,"Sazima, Vizotto & Taddei, 1978",morcego-beija-flor,NA,NA
+mam_575,Lonchophylla dekeyseri,Chiroptera,Phyllostomidae,Lonchophyllinae,Lonchophylla,dekeyseri,"Taddei, Vizotto & Sazima, 1983",morceguinho-do-cerrado,NA,NA
+mam_576,Lonchophylla inexpectata,Chiroptera,Phyllostomidae,Lonchophyllinae,Lonchophylla,inexpectata,"Moratelli & Dias, 2015",morcego-beija-flor,NA,NA
+mam_577,Lonchophylla mordax,Chiroptera,Phyllostomidae,Lonchophyllinae,Lonchophylla,mordax,"Thomas, 1903",morcego-beija-flor,NA,NA
+mam_578,Lonchophylla peracchii,Chiroptera,Phyllostomidae,Lonchophyllinae,Lonchophylla,peracchii,"Dias, Esbérard & Moratelli, 2013",morcego-beija-flor,NA,NA
+mam_579,Xeronycteris vieirai,Chiroptera,Phyllostomidae,Lonchophyllinae,Xeronycteris,vieirai,"Gregorin & Ditchfield, 2005",morcego-beija-flor,NA,NA
+mam_580,Glyphonycteris behnii,Chiroptera,Phyllostomidae,Glyphonycterinae,Glyphonycteris,behnii,"(Peters, 1865)",morcego,NA,NA
+mam_581,Glyphonycteris daviesi,Chiroptera,Phyllostomidae,Glyphonycterinae,Glyphonycteris,daviesi,"(Hill, 1965)",morcego,NA,NA
+mam_582,Glyphonycteris sylvestris,Chiroptera,Phyllostomidae,Glyphonycterinae,Glyphonycteris,sylvestris,"Thomas, 1896",morcego,NA,NA
+mam_583,Neonycteris pusilla,Chiroptera,Phyllostomidae,Glyphonycterinae,Neonycteris,pusilla,"(Sanborn, 1949)",morcego,NA,NA
+mam_584,Trinycteris nicefori,Chiroptera,Phyllostomidae,Glyphonycterinae,Trinycteris,nicefori,"(Sanborn, 1949)",morcego,NA,NA
+mam_585,Lampronycteris brachyotis,Chiroptera,Phyllostomidae,Micronycterinae,Lampronycteris,brachyotis,"(Dobson, 1879)",morcego,NA,NA
+mam_586,Micronycteris hirsuta,Chiroptera,Phyllostomidae,Micronycterinae,Micronycteris,hirsuta,"(Peters, 1869)",morcego,NA,NA
+mam_587,Micronycteris homezorum,Chiroptera,Phyllostomidae,Micronycterinae,Micronycteris,homezorum,"Pirlot, 1967",morcego,NA,NA
+mam_588,Micronycteris megalotis,Chiroptera,Phyllostomidae,Micronycterinae,Micronycteris,megalotis,"(Gray, 1842)",morcego,NA,NA
+mam_589,Micronycteris microtis,Chiroptera,Phyllostomidae,Micronycterinae,Micronycteris,microtis,"Miller, 1898",morcego,NA,NA
+mam_590,Micronycteris minuta,Chiroptera,Phyllostomidae,Micronycterinae,Micronycteris,minuta,"(Gervais, 1856)",morcego,NA,NA
+mam_591,Micronycteris sanborni,Chiroptera,Phyllostomidae,Micronycterinae,Micronycteris,sanborni,"Simmons, 1996",morcego,NA,NA
+mam_592,Micronycteris schmidtorum,Chiroptera,Phyllostomidae,Micronycterinae,Micronycteris,schmidtorum,"Sanborn, 1935",morcego,NA,NA
+mam_593,Lonchorhina aurita,Chiroptera,Phyllostomidae,Lonchorhininae,Lonchorhina,aurita,"Tomes, 1863",morcego,NA,NA
+mam_594,Lonchorhina inusitata,Chiroptera,Phyllostomidae,Lonchorhininae,Lonchorhina,inusitata,"Handley & Ochoa, 1997",morcego,NA,NA
+mam_595,Macrophyllum macrophyllum,Chiroptera,Phyllostomidae,Phyllostominae,Macrophyllum,macrophyllum,"(Schinz, 1821)",morcego,NA,NA
+mam_596,Trachops cirrhosus,Chiroptera,Phyllostomidae,Phyllostominae,Trachops,cirrhosus,"(Spix, 1823)",morcego,NA,NA
+mam_597,Gardnerycteris crenulatum,Chiroptera,Phyllostomidae,Phyllostominae,Gardnerycteris,crenulatum,"(É. Geoffroy St.-Hilaire, 1803)",morcego,NA,NA
+mam_598,Lophostoma brasiliense,Chiroptera,Phyllostomidae,Phyllostominae,Lophostoma,brasiliense,"Peters, 1867",morcego,NA,NA
+mam_599,Lophostoma carrikeri,Chiroptera,Phyllostomidae,Phyllostominae,Lophostoma,carrikeri,"(Allen, 1910)",morcego,NA,NA
+mam_600,Lophostoma schulzi,Chiroptera,Phyllostomidae,Phyllostominae,Lophostoma,schulzi,"(Genoways & Williams, 1980)",morcego,NA,NA
+mam_601,Lophostoma silvicola,Chiroptera,Phyllostomidae,Phyllostominae,Lophostoma,silvicola,"d'Orbigny, 1836",morcego,NA,NA
+mam_602,Phylloderma stenops,Chiroptera,Phyllostomidae,Phyllostominae,Phylloderma,stenops,"(Peters, 1865)",morcego,NA,NA
+mam_603,Phyllostomus discolor,Chiroptera,Phyllostomidae,Phyllostominae,Phyllostomus,discolor,"(Wagner, 1843)",morcego,NA,NA
+mam_604,Phyllostomus elongatus,Chiroptera,Phyllostomidae,Phyllostominae,Phyllostomus,elongatus,"(É. Geoffroy St.-Hilaire, 1810)",morcego,NA,NA
+mam_605,Phyllostomus hastatus,Chiroptera,Phyllostomidae,Phyllostominae,Phyllostomus,hastatus,"(Pallas, 1767)",morcego,NA,NA
+mam_606,Phyllostomus latifolius,Chiroptera,Phyllostomidae,Phyllostominae,Phyllostomus,latifolius,"(Thomas, 1901)",morcego,NA,NA
+mam_607,Tonatia bidens,Chiroptera,Phyllostomidae,Phyllostominae,Tonatia,bidens,"(Spix, 1823)",morcego,NA,NA
+mam_608,Tonatia maresi,Chiroptera,Phyllostomidae,Phyllostominae,Tonatia,maresi,"Williams, Willig & Reid, 1995",morcego,NA,NA
+mam_609,Chrotopterus auritus,Chiroptera,Phyllostomidae,Phyllostominae,Chrotopterus,auritus,"(Peters, 1856)",morcego,NA,NA
+mam_610,Mimon bennettii,Chiroptera,Phyllostomidae,Phyllostominae,Mimon,bennettii,"(Gray, 1838)",morcego,NA,NA
+mam_611,Vampyrum spectrum,Chiroptera,Phyllostomidae,Phyllostominae,Vampyrum,spectrum,"(Linnaeus, 1758)",morcego,NA,NA
+mam_612,Ametrida centurio,Chiroptera,Phyllostomidae,Stenodermatinae,Ametrida,centurio,"Gray, 1847",morcego,NA,NA
+mam_613,Artibeus fimbriatus,Chiroptera,Phyllostomidae,Stenodermatinae,Artibeus,fimbriatus,"Gray, 1838",morcego,NA,NA
+mam_614,Artibeus lituratus,Chiroptera,Phyllostomidae,Stenodermatinae,Artibeus,lituratus,"(Olfers, 1818)",morcego-das-frutas,NA,NA
+mam_615,Artibeus obscurus,Chiroptera,Phyllostomidae,Stenodermatinae,Artibeus,obscurus,"(Schinz, 1821)",morcego,NA,NA
+mam_616,Artibeus planirostris,Chiroptera,Phyllostomidae,Stenodermatinae,Artibeus,planirostris,"(Spix, 1823)",morcego,NA,NA
+mam_617,Artibeus anderseni,Chiroptera,Phyllostomidae,Stenodermatinae,Artibeus,anderseni,"Osgood, 1916",morcego,NA,NA
+mam_618,Artibeus bogotensis,Chiroptera,Phyllostomidae,Stenodermatinae,Artibeus,bogotensis,"Andersen, 1906",morcego,NA,NA
+mam_619,Artibeus cinereus,Chiroptera,Phyllostomidae,Stenodermatinae,Artibeus,cinereus,"(Gervais, 1856)",morcego,NA,NA
+mam_620,Artibeus gnoma,Chiroptera,Phyllostomidae,Stenodermatinae,Artibeus,gnoma,"Handley, 1987",morcego,NA,NA
+mam_621,Artibeus concolor,Chiroptera,Phyllostomidae,Stenodermatinae,Artibeus,concolor,"Peters, 1865",morcego,NA,NA
+mam_622,Chiroderma doriae,Chiroptera,Phyllostomidae,Stenodermatinae,Chiroderma,doriae,"Thomas, 1891",morcego,NA,NA
+mam_623,Chiroderma trinitatum,Chiroptera,Phyllostomidae,Stenodermatinae,Chiroderma,trinitatum,"Goodwin, 1958",morcego,NA,NA
+mam_624,Chiroderma villosum,Chiroptera,Phyllostomidae,Stenodermatinae,Chiroderma,villosum,"Peters, 1860",morcego,NA,NA
+mam_625,Mesophylla macconnelli,Chiroptera,Phyllostomidae,Stenodermatinae,Mesophylla,macconnelli,"Thomas, 1901",morcego,NA,NA
+mam_626,Platyrrhinus angustirostris,Chiroptera,Phyllostomidae,Stenodermatinae,Platyrrhinus,angustirostris,"Velazco, Gardner & Patterson, 2010",morcego-de-linha-branca,NA,NA
+mam_627,Platyrrhinus aurarius,Chiroptera,Phyllostomidae,Stenodermatinae,Platyrrhinus,aurarius,"(Handley & Ferris, 1972)",morcego-de-linha-branca,NA,NA
+mam_628,Platyrrhinus brachycephalus,Chiroptera,Phyllostomidae,Stenodermatinae,Platyrrhinus,brachycephalus,"(Rouk & Carter, 1972)",morcego-de-linha-branca,NA,NA
+mam_629,Platyrrhinus fusciventris,Chiroptera,Phyllostomidae,Stenodermatinae,Platyrrhinus,fusciventris,"Velazco, Gardner & Patterson, 2010",morcego-de-linha-branca,NA,NA
+mam_630,Platyrrhinus incarum,Chiroptera,Phyllostomidae,Stenodermatinae,Platyrrhinus,incarum,"(Thomas, 1912)",morcego-de-linha-branca,NA,NA
+mam_631,Platyrrhinus infuscus,Chiroptera,Phyllostomidae,Stenodermatinae,Platyrrhinus,infuscus,"(Peters, 1880)",morcego-de-linha-branca,NA,NA
+mam_632,Platyrrhinus lineatus,Chiroptera,Phyllostomidae,Stenodermatinae,Platyrrhinus,lineatus,"(É. Geoffroy St.-Hilaire, 1810)",morcego-de-linha-branca,NA,NA
+mam_633,Platyrrhinus recifinus,Chiroptera,Phyllostomidae,Stenodermatinae,Platyrrhinus,recifinus,"(Thomas, 1901)",morcego-de-linha-branca,NA,NA
+mam_634,Pygoderma bilabiatum,Chiroptera,Phyllostomidae,Stenodermatinae,Pygoderma,bilabiatum,"(Wagner, 1843)",morcego,NA,NA
+mam_635,Uroderma bilobatum,Chiroptera,Phyllostomidae,Stenodermatinae,Uroderma,bilobatum,"Peters, 1866",morcego,NA,NA
+mam_636,Uroderma magnirostrum,Chiroptera,Phyllostomidae,Stenodermatinae,Uroderma,magnirostrum,"Davis, 1968",morcego,NA,NA
+mam_637,Vampyressa pusilla,Chiroptera,Phyllostomidae,Stenodermatinae,Vampyressa,pusilla,"(Wagner, 1843)",morcego,NA,NA
+mam_638,Vampyressa thyone,Chiroptera,Phyllostomidae,Stenodermatinae,Vampyressa,thyone,"(Thomas, 1909)",morcego,NA,NA
+mam_639,Vampyriscus bidens,Chiroptera,Phyllostomidae,Stenodermatinae,Vampyriscus,bidens,"(Dobson, 1878)",morcego,NA,NA
+mam_640,Vampyriscus brocki,Chiroptera,Phyllostomidae,Stenodermatinae,Vampyriscus,brocki,"(Peterson, 1968)",morcego,NA,NA
+mam_641,Vampyrodes caraccioli,Chiroptera,Phyllostomidae,Stenodermatinae,Vampyrodes,caraccioli,"(Thomas, 1889)",morcego,NA,NA
+mam_642,Sphaeronycteris toxophyllum,Chiroptera,Phyllostomidae,Stenodermatinae,Sphaeronycteris,toxophyllum,"Peters, 1882",morcego,NA,NA
+mam_643,Sturnira giannae,Chiroptera,Phyllostomidae,Stenodermatinae,Sturnira,giannae,"Velazco & Patterson, 2019",morcego,NA,NA
+mam_644,Sturnira lilium,Chiroptera,Phyllostomidae,Stenodermatinae,Sturnira,lilium,"(É. Geoffroy St.-Hilaire, 1810)",morcego,NA,NA
+mam_645,Sturnira magna,Chiroptera,Phyllostomidae,Stenodermatinae,Sturnira,magna,"de la Torre, 1966",morcego,NA,NA
+mam_646,Sturnira tildae,Chiroptera,Phyllostomidae,Stenodermatinae,Sturnira,tildae,"de la Torre, 1959",morcego,NA,NA
+mam_647,Thyroptera devivoi,Chiroptera,Thyropteridae,NA,Thyroptera,devivoi,"Gregorin et al., 2006",morcego-de-ventosa,NA,NA
+mam_648,Thyroptera discifera,Chiroptera,Thyropteridae,NA,Thyroptera,discifera,"(Lichtenstein & Peters, 1855)",morcego-de-ventosa,NA,NA
+mam_649,Thyroptera lavali,Chiroptera,Thyropteridae,NA,Thyroptera,lavali,"Pine, 1993",morcego-de-ventosa,NA,NA
+mam_650,Thyroptera tricolor,Chiroptera,Thyropteridae,NA,Thyroptera,tricolor,"Spix, 1823",morcego-de-ventosa,NA,NA
+mam_651,Thyroptera wynneae,Chiroptera,Thyropteridae,NA,Thyroptera,wynneae,"Velazco et al., 2014",morcego-de-ventosa,NA,NA
+mam_652,Myotis albescens,Chiroptera,Vespertilionidae,Myotinae,Myotis,albescens,"(É. Geoffroy St.-Hilaire, 1806)",morcego,NA,NA
+mam_653,Myotis izecksohni,Chiroptera,Vespertilionidae,Myotinae,Myotis,izecksohni,"Moratelli et al., 2011",morcego,NA,NA
+mam_654,Myotis lavali,Chiroptera,Vespertilionidae,Myotinae,Myotis,lavali,"Moratelli et al., 2011",morcego,NA,NA
+mam_655,Myotis levis,Chiroptera,Vespertilionidae,Myotinae,Myotis,levis,"(I. Geoffroy St.-Hilaire, 1824)",morcego,NA,NA
+mam_656,Myotis nigricans,Chiroptera,Vespertilionidae,Myotinae,Myotis,nigricans,"(Schinz, 1821)",morcego,NA,NA
+mam_657,Myotis riparius,Chiroptera,Vespertilionidae,Myotinae,Myotis,riparius,"Handley, 1960",morcego,NA,NA
+mam_658,Myotis ruber,Chiroptera,Vespertilionidae,Myotinae,Myotis,ruber,"(É. Geoffroy St.-Hilaire, 1806)",morcego-vermelho,NA,NA
+mam_659,Myotis simus,Chiroptera,Vespertilionidae,Myotinae,Myotis,simus,"Thomas, 1901",morcego,NA,NA
+mam_660,Rhogeessa hussoni,Chiroptera,Vespertilionidae,Vespertilioninae,Rhogeessa,hussoni,"Genoways & Baker, 1996",morcego,NA,NA
+mam_661,Rhogeessa io,Chiroptera,Vespertilionidae,Vespertilioninae,Rhogeessa,io,"Thomas, 1903",morcego,NA,NA
+mam_662,Eptesicus brasiliensis,Chiroptera,Vespertilionidae,Vespertilioninae,Eptesicus,brasiliensis,"(Desmarest, 1819)",morcego,NA,NA
+mam_663,Eptesicus chiriquinus,Chiroptera,Vespertilionidae,Vespertilioninae,Eptesicus,chiriquinus,"Thomas, 1920",morcego,NA,NA
+mam_664,Eptesicus diminutus,Chiroptera,Vespertilionidae,Vespertilioninae,Eptesicus,diminutus,"Osgood, 1915",morcego,NA,NA
+mam_665,Eptesicus furinalis,Chiroptera,Vespertilionidae,Vespertilioninae,Eptesicus,furinalis,"(d'Orbigny & Gervais, 1847)",morcego,NA,NA
+mam_666,Eptesicus taddeii,Chiroptera,Vespertilionidae,Vespertilioninae,Eptesicus,taddeii,"Miranda, Bernardi & Passos, 2006",morcego,NA,NA
+mam_667,Histiotus alienus,Chiroptera,Vespertilionidae,Vespertilioninae,Histiotus,alienus,"Thomas, 1916",morcego,NA,NA
+mam_668,Histiotus diaphanopterus,Chiroptera,Vespertilionidae,Vespertilioninae,Histiotus,diaphanopterus,"Feijó, Rocha & Althoff, 2015",morcego,NA,NA
+mam_669,Histiotus laephotis,Chiroptera,Vespertilionidae,Vespertilioninae,Histiotus,laephotis,"Thomas, 1916",morcego,NA,NA
+mam_670,Histiotus montanus,Chiroptera,Vespertilionidae,Vespertilioninae,Histiotus,montanus,"(Philippi & Landbeck, 1861)",morcego,NA,NA
+mam_671,Histiotus velatus,Chiroptera,Vespertilionidae,Vespertilioninae,Histiotus,velatus,"(I. Geoffroy St.-Hilaire, 1824)",morcego,NA,NA
+mam_672,Lasiurus villosissimus,Chiroptera,Vespertilionidae,Vespertilioninae,Lasiurus,villosissimus,"(É. Geoffroy St.-Hilaire, 1806)",morcego,NA,NA
+mam_673,Lasiurus egregius,Chiroptera,Vespertilionidae,Vespertilioninae,Lasiurus,egregius,"(Peters, 1870)",morcego,NA,NA
+mam_674,Lasiurus blossevillii,Chiroptera,Vespertilionidae,Vespertilioninae,Lasiurus,blossevillii,"(Lesson, 1826)",morcego-vermelho,NA,NA
+mam_675,Lasiurus castaneus,Chiroptera,Vespertilionidae,Vespertilioninae,Lasiurus,castaneus,"Handley, 1960",morcego,NA,NA
+mam_676,Lasiurus ebenus,Chiroptera,Vespertilionidae,Vespertilioninae,Lasiurus,ebenus,"Fazzolari-Corrêa, 1994",morcego,NA,NA
+mam_677,Lasiurus ega,Chiroptera,Vespertilionidae,Vespertilioninae,Lasiurus,ega,"(Gervais, 1856)",morcego,NA,NA
+mam_678,Atelocynus microtis,Carnivora,Canidae,NA,Atelocynus,microtis,"(Sclater, 1883)",cachorro-do-mato-de-orelha-curta,NA,NA
+mam_679,Cerdocyon thous,Carnivora,Canidae,NA,Cerdocyon,thous,"(Linnaeus, 1766)","cachorro-do-mato, graxaim, raposa",NA,NA
+mam_680,Chrysocyon brachyurus,Carnivora,Canidae,NA,Chrysocyon,brachyurus,"(Illiger, 1815)","lobo-guará, guará",NA,NA
+mam_681,Lycalopex gymnocercus,Carnivora,Canidae,NA,Lycalopex,gymnocercus,"(Fischer, 1814)","graxaim-do-campo, graxaim, raposa-do-campo",NA,NA
+mam_682,Lycalopex vetulus,Carnivora,Canidae,NA,Lycalopex,vetulus,"(Lund, 1842)",raposinha,NA,NA
+mam_683,Speothos venaticus,Carnivora,Canidae,NA,Speothos,venaticus,"(Lund, 1842)",cachorro-do-mato-vinagre,NA,NA
+mam_684,Conepatus chinga,Carnivora,Mephitidae,NA,Conepatus,chinga,"(Molina, 1782)","zorrilho, cangambá, jaritataca",NA,NA
+mam_685,Conepatus semistriatus,Carnivora,Mephitidae,NA,Conepatus,semistriatus,"(Boddaert, 1785)","cangambá, jaritataca",NA,NA
+mam_686,Eira barbara,Carnivora,Mustelidae,Guloninae,Eira,barbara,"(Linnaeus, 1758)","irara, papa-mel",NA,NA
+mam_687,Galictis cuja,Carnivora,Mustelidae,Ictonychinae,Galictis,cuja,"(Molina, 1782)","furão-pequeno, furão",NA,NA
+mam_688,Galictis vittata,Carnivora,Mustelidae,Ictonychinae,Galictis,vittata,"(Schreber, 1776)","furão-grande, furão",NA,NA
+mam_689,Mustela africana,Carnivora,Mustelidae,Mustelinae,Mustela,africana,"Desmarest, 1818",doninha-amazônica,NA,NA
+mam_690,Lontra longicaudis,Carnivora,Mustelidae,Lutrinae,Lontra,longicaudis,"(Olfers, 1818)",lontra,NA,NA
+mam_691,Pteronura brasiliensis,Carnivora,Mustelidae,Lutrinae,Pteronura,brasiliensis,"(Zimmermann, 1780)",ariranha,NA,NA
+mam_692,Arctocephalus australis,Carnivora,Otariidae,NA,Arctocephalus,australis,"(Zimmermann, 1783)",lobo-marinho-do-sul,NA,NA
+mam_693,Arctocephalus gazella,Carnivora,Otariidae,NA,Arctocephalus,gazella,"(Peters, 1875)",lobo-marinho-antártico,NA,NA
+mam_694,Arctocephalus tropicalis,Carnivora,Otariidae,NA,Arctocephalus,tropicalis,"(Gray, 1872)",lobo-marinho-subantártico,NA,NA
+mam_695,Otaria flavescens,Carnivora,Otariidae,NA,Otaria,flavescens,"(Shaw, 1800)",leão-marinho-do-sul,NA,NA
+mam_696,Hydrurga leptonyx,Carnivora,Phocidae,NA,Hydrurga,leptonyx,"(Blainville, 1820)",foca-leopardo,NA,NA
+mam_697,Leptonychotes weddellii,Carnivora,Phocidae,NA,Leptonychotes,weddellii,"(Lesson, 1826)",foca-de-weddell,NA,NA
+mam_698,Lobodon carcinophaga,Carnivora,Phocidae,NA,Lobodon,carcinophaga,"(Hombron & Jacquinot, 1842)",foca-caranguejeira,NA,NA
+mam_699,Mirounga leonina,Carnivora,Phocidae,NA,Mirounga,leonina,"(Linnaeus, 1758)",elefante-marinho-do-sul,NA,NA
+mam_700,Bassaricyon alleni,Carnivora,Procyonidae,NA,Bassaricyon,alleni,"Thomas, 1880",olingo,NA,NA
+mam_701,Nasua nasua,Carnivora,Procyonidae,NA,Nasua,nasua,"(Linnaeus, 1766)",quati,NA,NA
+mam_702,Potos flavus,Carnivora,Procyonidae,NA,Potos,flavus,"(Schreber, 1774)",jupará,NA,NA
+mam_703,Procyon cancrivorus,Carnivora,Procyonidae,NA,Procyon,cancrivorus,"Cuvier, 1798","mão-pelada, guaxinim",NA,NA
+mam_704,Herpailurus yagouaroundi,Carnivora,Felidae,Felinae,Herpailurus,yagouaroundi,"(É. Geoffroy Saint-Hilaire, 1803)","gato-mourisco, jaguarundi",NA,NA
+mam_705,Leopardus braccatus,Carnivora,Felidae,Felinae,Leopardus,braccatus,"(Cope, 1889)","gato-palheiro, gato-do-Pantanal",NA,NA
+mam_706,Leopardus emiliae,Carnivora,Felidae,Felinae,Leopardus,emiliae,"(Thomas, 1914)",gato -do-mato,NA,NA
+mam_707,Leopardus geoffroyi,Carnivora,Felidae,Felinae,Leopardus,geoffroyi,"(d'Orbigny & Gervais, 1844)",gato -do-mato-grande,NA,NA
+mam_708,Leopardus guttulus,Carnivora,Felidae,Felinae,Leopardus,guttulus,"(Hensel, 1872)","gato-do-mato-pequeno-do-sul, gato-do-mato-pequeno",NA,NA
+mam_709,Leopardus munoai,Carnivora,Felidae,Felinae,Leopardus,munoai,"(Ximénez, 1961)","gato-palheiro, gato-do-Pampa",NA,NA
+mam_710,Leopardus pardalis,Carnivora,Felidae,Felinae,Leopardus,pardalis,"(Linnaeus, 1758)",jaguatirica,NA,NA
+mam_711,Leopardus tigrinus,Carnivora,Felidae,Felinae,Leopardus,tigrinus,"(Schreber, 1775)",gato-do-mato-pequeno,NA,NA
+mam_712,Leopardus wiedii,Carnivora,Felidae,Felinae,Leopardus,wiedii,"(Schinz, 1821)","gato-maracajá, maracajá, gato-peludo, gato-macaco",NA,NA
+mam_713,Puma concolor,Carnivora,Felidae,Felinae,Puma,concolor,"(Linnaeus, 1771)","puma, onça parta, suçuarana, leão-baio",NA,NA
+mam_714,Panthera onca,Carnivora,Felidae,Pantherinae,Panthera,onca,"(Linnaeus, 1758)",onça-pintada,NA,NA
+mam_715,Tapirus terrestris,Perissodactyla,Tapiriidae,NA,Tapirus,terrestris,"(Linnaeus, 1758)",anta,NA,NA
+mam_716,Blastocerus dichotomus,Cetartiodactyla,Cervidae,Capreolinae,Blastocerus,dichotomus,"(Illiger, 1815)",cervo-do-pantanal,NA,NA
+mam_717,Mazama americana,Cetartiodactyla,Cervidae,Capreolinae,Mazama,americana,"(Erxleben, 1777)",veado-mateiro,NA,NA
+mam_718,Mazama jucunda,Cetartiodactyla,Cervidae,Capreolinae,Mazama,jucunda,"Thomas, 1913",veado-mateiro-pequeno,NA,NA
+mam_719,Mazama nana,Cetartiodactyla,Cervidae,Capreolinae,Mazama,nana,"Hensel, 1872",veado-mão-curta,NA,NA
+mam_720,Mazama nemorivaga,Cetartiodactyla,Cervidae,Capreolinae,Mazama,nemorivaga,"(Cuvier, 1817)",veado-roxo,NA,NA
+mam_721,Mazama rufa,Cetartiodactyla,Cervidae,Capreolinae,Mazama,rufa,"(Illiger, 1815)",veado-mateiro,NA,NA
+mam_722,Odocoileus virginianus,Cetartiodactyla,Cervidae,Capreolinae,Odocoileus,virginianus,"(Zimmermann, 1780)",veado-da-cauda-branca,NA,NA
+mam_723,Ozotoceros bezoarticus,Cetartiodactyla,Cervidae,Capreolinae,Ozotoceros,bezoarticus,"(Linnaeus, 1758)",veado-campeiro,NA,NA
+mam_724,Subulo gouazoubira,Cetartiodactyla,Cervidae,Capreolinae,Subulo,gouazoubira,"(Fischer, 1814)",veado-catingueiro,NA,NA
+mam_725,Dicotyles tajacu,Cetartiodactyla,Tayassuidae,NA,Dicotyles,tajacu,"(Linnaeus, 1758)",cateto,NA,NA
+mam_726,Tayassu pecari,Cetartiodactyla,Tayassuidae,NA,Tayassu,pecari,"(Link, 1795)",queixada,NA,NA
+mam_727,Eubalaena australis,Cetartiodactyla,Balaenidae,NA,Eubalaena,australis,"(Desmoulins, 1822)",baleia-franca-austral,NA,NA
+mam_728,Balaenoptera acutorostrata,Cetartiodactyla,Balaenopteridae,NA,Balaenoptera,acutorostrata,"Lacépède, 1804",baleia-minke-comum,NA,NA
+mam_729,Balaenoptera bonaerensis,Cetartiodactyla,Balaenopteridae,NA,Balaenoptera,bonaerensis,"Burmeister, 1867",baleia-minke-antártica,NA,NA
+mam_730,Balaenoptera borealis,Cetartiodactyla,Balaenopteridae,NA,Balaenoptera,borealis,"Lesson, 1828",baleia-sei,NA,NA
+mam_731,Balaenoptera edeni,Cetartiodactyla,Balaenopteridae,NA,Balaenoptera,edeni,"Anderson, 1879",baleia-de-Bryde,NA,NA
+mam_732,Balaenoptera omurai,Cetartiodactyla,Balaenopteridae,NA,Balaenoptera,omurai,"Wada, Oishi, Yamada 2003",baleia-de-Omura,NA,NA
+mam_733,Balaenoptera musculus,Cetartiodactyla,Balaenopteridae,NA,Balaenoptera,musculus,"(Linnaeus, 1758)",baleia-azul,NA,NA
+mam_734,Balaenoptera physalus,Cetartiodactyla,Balaenopteridae,NA,Balaenoptera,physalus,"(Linnaeus, 1758)",baleia-fin,NA,NA
+mam_735,Megaptera novaeangliae,Cetartiodactyla,Balaenopteridae,NA,Megaptera,novaeangliae,"(Borowski, 1781)",baleia-jubarte,NA,NA
+mam_736,Cephalorhynchus commersonii,Cetartiodactyla,Delphinidae,NA,Cephalorhynchus,commersonii,"(Lacépède, 1804)",golfinho-de-Commerson,NA,NA
+mam_737,Delphinus delphis,Cetartiodactyla,Delphinidae,NA,Delphinus,delphis,"Linnaeus, 1758",golfinho-comum,NA,NA
+mam_738,Feresa attenuata,Cetartiodactyla,Delphinidae,NA,Feresa,attenuata,"Gray, 1874",orca-pigmeia,NA,NA
+mam_739,Globicephala macrorhynchus,Cetartiodactyla,Delphinidae,NA,Globicephala,macrorhynchus,"Gray, 1846",baleia-piloto-de-peitorais-curtas,NA,NA
+mam_740,Globicephala melas,Cetartiodactyla,Delphinidae,NA,Globicephala,melas,"(Traill, 1809)",baleia-piloto-de-peitorais-longas,NA,NA
+mam_741,Grampus griseus,Cetartiodactyla,Delphinidae,NA,Grampus,griseus,"(Cuvier, 1812)",golfinho-de-Risso,NA,NA
+mam_742,Lagenodelphis hosei,Cetartiodactyla,Delphinidae,NA,Lagenodelphis,hosei,"Fraser, 1956",golfinho-de-Fraser,NA,NA
+mam_743,Lagenorhynchus australis,Cetartiodactyla,Delphinidae,NA,Lagenorhynchus,australis,"(Peale, 1848)",golfinho-austral,NA,NA
+mam_744,Lissodelphis peronii,Cetartiodactyla,Delphinidae,NA,Lissodelphis,peronii,"(Lacépède, 1804)",golfinho-liso-do-sul,NA,NA
+mam_745,Orcinus orca,Cetartiodactyla,Delphinidae,NA,Orcinus,orca,"(Linnaeus, 1758)",orca,NA,NA
+mam_746,Peponocephala electra,Cetartiodactyla,Delphinidae,NA,Peponocephala,electra,"(Owen, 1846)",golfinho-cabeça-de-melão,NA,NA
+mam_747,Pseudorca crassidens,Cetartiodactyla,Delphinidae,NA,Pseudorca,crassidens,"(Owen, 1846)",falsa-orca,NA,NA
+mam_748,Sotalia fluviatilis,Cetartiodactyla,Delphinidae,NA,Sotalia,fluviatilis,"(Gervais & Deville, 1853)",tucuxi,NA,NA
+mam_749,Sotalia guianensis,Cetartiodactyla,Delphinidae,NA,Sotalia,guianensis,"(Van Bénéden, 1864)",boto-cinza,NA,NA
+mam_750,Stenella attenuata,Cetartiodactyla,Delphinidae,NA,Stenella,attenuata,"(Gray, 1846)",golfinho-pintado-pantropical,NA,NA
+mam_751,Stenella clymene,Cetartiodactyla,Delphinidae,NA,Stenella,clymene,"(Gray, 1850)",golfinho-de-Clymene,NA,NA
+mam_752,Stenella coeruleoalba,Cetartiodactyla,Delphinidae,NA,Stenella,coeruleoalba,"(Meyen, 1833)",golfinho-listrado,NA,NA
+mam_753,Stenella frontalis,Cetartiodactyla,Delphinidae,NA,Stenella,frontalis,"(Cuvier, 1829)",golfinho-pintado-do-Atlântico,NA,NA
+mam_754,Stenella longirostris,Cetartiodactyla,Delphinidae,NA,Stenella,longirostris,"(Gray, 1828)",golfinho-rotador,NA,NA
+mam_755,Steno bredanensis,Cetartiodactyla,Delphinidae,NA,Steno,bredanensis,"(Cuvier, 1828)",golfinho-de-dentes-rugosos,NA,NA
+mam_756,"Tursiops gephyreus Lahille,",Cetartiodactyla,Delphinidae,NA,Tursiops,"gephyreus Lahille,",NA,golfinho-nariz-de-garrafa-de-Lahille,NA,NA
+mam_757,Tursiops truncatus,Cetartiodactyla,Delphinidae,NA,Tursiops,truncatus,"(Montagu, 1821)",golfinho-nariz-de-garrafa-comum,NA,NA
+mam_758,Inia araguaiaensis,Cetartiodactyla,Iniidae,NA,Inia,araguaiaensis,"Hrbek et al., 2014",boto-do-Araguaia,NA,NA
+mam_759,Inia boliviensis,Cetartiodactyla,Iniidae,NA,Inia,boliviensis,"d'Orbigny, 1834",boto-da-Bolívia,NA,NA
+mam_760,Inia geoffrensis,Cetartiodactyla,Iniidae,NA,Inia,geoffrensis,"(Blainville, 1817)","boto-vermelho, boto-do-Amazonas",NA,NA
+mam_761,Kogia breviceps,Cetartiodactyla,Kogiidae,NA,Kogia,breviceps,"(Blainville, 1838)",cachalote-pigmeu,NA,NA
+mam_762,Kogia sima,Cetartiodactyla,Kogiidae,NA,Kogia,sima,"(Owen, 1866)",cachalote-anão,NA,NA
+mam_763,Phocoena dioptrica,Cetartiodactyla,Phocoenidae,NA,Phocoena,dioptrica,"Lahille, 1912",boto-de-óculos,NA,NA
+mam_764,Phocoena spinipinnis,Cetartiodactyla,Phocoenidae,NA,Phocoena,spinipinnis,"Burmeister, 1865",boto-de-Burmeister,NA,NA
+mam_765,Physeter macrocephalus,Cetartiodactyla,Physeteridae,NA,Physeter,macrocephalus,"Linnaeus, 1758",cachalote,NA,NA
+mam_766,Pontoporia blainvillei,Cetartiodactyla,Pontoporiidae,NA,Pontoporia,blainvillei,"(Gervais & d'Orbigny, 1844)",toninha,NA,NA
+mam_767,Berardius arnuxii,Cetartiodactyla,Ziphiidae,NA,Berardius,arnuxii,"Duvernoy, 1851",baleia-bicuda-de-Arnoux,NA,NA
+mam_768,Hyperoodon planifrons,Cetartiodactyla,Ziphiidae,NA,Hyperoodon,planifrons,"Flower, 1882",baleia-bicuda-do-sul,NA,NA
+mam_769,Mesoplodon densirostris,Cetartiodactyla,Ziphiidae,NA,Mesoplodon,densirostris,"(Blainville, 1817)",baleia-bicuda-de-Blainville,NA,NA
+mam_770,Mesoplodon europaeus,Cetartiodactyla,Ziphiidae,NA,Mesoplodon,europaeus,"(Gervais, 1855)",baleia-bicuda-de-Gervais,NA,NA
+mam_771,Mesoplodon grayi,Cetartiodactyla,Ziphiidae,NA,Mesoplodon,grayi,"von Haast, 1876",baleia-bicuda-de-Gray,NA,NA
+mam_772,Mesoplodon hectori,Cetartiodactyla,Ziphiidae,NA,Mesoplodon,hectori,"(Gray, 1871)",baleia-bicuda-de-Hector,NA,NA
+mam_773,Mesoplodon layardii,Cetartiodactyla,Ziphiidae,NA,Mesoplodon,layardii,"(Gray, 1865)",baleia-bicuda-de-Layard,NA,NA
+mam_774,Mesoplodon mirus,Cetartiodactyla,Ziphiidae,NA,Mesoplodon,mirus,"True, 1913",baleia-bicuda-de-True,NA,NA
+mam_775,Ziphius cavirostris,Cetartiodactyla,Ziphiidae,NA,Ziphius,cavirostris,"Cuvier, 1823",baleia-bicuda-de-Cuvier,NA,NA
