@@ -8,7 +8,6 @@
 # 0) Setup ----------------------------------------------------------------
 
 # library(dplyr)
-# library(glue)
 # library(here)
 # library(janitor)
 # library(readr)
@@ -24,7 +23,7 @@
 # devtools::install_github('paulobarros/amphiBR')
 
 amphibians_splist <- amphiBR::segalla2021 |> 
-    dplyr::mutate(species_id = glue::glue("amp_{1:length(species_id)}")) |>
+    dplyr::mutate(species_id = paste0("amp_", 1:length(species_id))) |>
     dplyr::select(species_id, 
                   species,
                   order, 
@@ -113,6 +112,30 @@ mammals_splist <- mammals_raw |>
 
 
 
+# 4) Peixes ---------------------------------------------------------------
+
+## https://www.fishbase.se/search.php
+## https://github.com/ropensci/rfishbase
+
+library(rfishbase)
+
+fish <- rfishbase::load_taxa(server = "fishbase")
+fishsea <- rfishbase::load_taxa(server = "sealifebase")
+
+fish_species <- rfishbase::species(server = "fishbase")
+fishsea_species <- rfishbase::species(server = "sealifebase")
+
+fish_br <- rfishbase::country(server = "fishbase") |> 
+    dplyr::filter(country == "Brazil")
+fishsea_br <- rfishbase::country(server = "sealifebase") |> 
+    dplyr::filter(country == "Brazil")
+
+location <- rfishbase::sci_to_common(Language = "Portuguese")
+
+
+
+
+
 # 4) Répteis --------------------------------------------------------------
 
 ## Guedes, T. B., Entiauspe-Neto, O. M., & Costa, H. C. (2023). Lista de répteis do Brasil: atualização de 2022. https://doi.org/10.5281/zenodo.7829013
@@ -123,6 +146,10 @@ mammals_splist <- mammals_raw |>
 
 
 
+
+
+# 5) Unindo os dados ------------------------------------------------------
+
 splist <- dplyr::bind_rows(amphibians_splist,
                            birds_splist,
                            mammals_splist)
@@ -131,14 +158,18 @@ splist <- dplyr::bind_rows(amphibians_splist,
 
 splist <- readr::read_csv("data/processed/splist.csv")
 
-# 5) BOLD -----------------------------------------------------------------
+
+
+
+
+# 6) BOLD -----------------------------------------------------------------
 
 source(here::here("R/bold_onebyone.R"))
 
-sp_bold <- bold_onebyone(data = splist_s, 
-                         species = "species")
+# sp_bold <- bold_onebyone(data = splist, 
+#                          species = "species")
 
-
+readr::write_csv(sp_bold, "data/processed/amp_bir_mam_bold.csv")
 
 
 
